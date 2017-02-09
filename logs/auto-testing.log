@@ -1,3 +1,80 @@
 2017-02-04 15:37:11 INFO  BasicTest:27 - Created a BasicTest object through constructor
 2017-02-04 15:38:47 INFO  BasicTest:27 - Created a BasicTest object through constructor
 2017-02-04 15:38:50 INFO  BasicTest:20 - Running test
+2017-02-08 19:32:01 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-08 19:32:37 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-08 19:34:14 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-08 19:45:33 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-08 20:04:41 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-08 20:07:54 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-08 20:09:35 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-08 20:09:36 INFO  BasicTest:20 - Getting data from table and passing it
+2017-02-08 20:11:36 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-08 20:17:16 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-08 20:17:16 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-08 20:18:44 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-08 20:18:44 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-08 20:18:49 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-08 20:18:49 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-08 20:20:23 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-08 20:20:23 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-08 20:22:06 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-08 20:22:06 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-08 20:42:18 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-08 20:42:18 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-08 20:44:20 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-08 20:44:20 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-08 20:47:55 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-08 20:47:56 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-08 20:48:00 INFO  BasicTest:32 - Sending keys to search bar
+2017-02-08 20:49:15 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-08 20:49:15 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-08 20:49:21 INFO  BasicTest:32 - Sending keys to search bar
+2017-02-08 20:51:30 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-08 20:51:30 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-08 20:51:52 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-08 20:51:52 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-08 20:53:26 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-08 20:53:26 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-08 20:53:30 INFO  BasicTest:32 - Sending keys to search bar
+2017-02-08 20:55:02 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-08 20:55:02 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-08 20:55:11 INFO  BasicTest:32 - Sending keys to search bar
+2017-02-08 20:58:03 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-08 20:58:03 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-08 20:58:49 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-08 20:58:49 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-08 21:08:45 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-08 21:08:45 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-08 21:09:33 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-08 21:09:34 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-08 21:11:10 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-08 21:11:10 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-08 21:23:44 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-08 21:23:44 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-08 22:16:58 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-08 22:16:58 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-08 22:24:34 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-08 22:24:35 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-08 22:26:49 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-08 22:26:49 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-08 22:30:00 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-08 22:30:03 INFO  BasicTest:36 - submitting on search button
+2017-02-08 22:30:03 INFO  BasicTest:38 - submitting on search button
+2017-02-08 22:31:37 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-08 22:31:37 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-08 22:38:31 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-08 22:38:31 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-08 22:40:46 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-08 22:40:46 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-08 22:41:17 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-08 22:41:17 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-08 22:58:04 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-08 22:58:04 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-08 22:58:15 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-08 22:58:15 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-08 22:59:04 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-08 22:59:04 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-08 23:08:13 INFO  BasicTest:34 - Sending keys to search bar
+2017-02-08 23:08:13 INFO  BasicTest:37 - submitting on search button
+2017-02-08 23:08:13 INFO  BasicTest:39 - submitting on search button
