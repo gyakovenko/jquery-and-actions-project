@@ -26,7 +26,8 @@ public class TestWithDataFromFiles extends BasicTest {
 	}
 
 	@DataProvider
-	public Object[][] fromSQL1() throws ClassNotFoundException, SQLException {
+	public Object[][] fromSQL1() throws ClassNotFoundException, SQLException, DataTypesMismatchException,
+			DataTypesCountException, DataTypesTypeException {
 		getLogger().info("Getting data from db and passing it");
 		Object[][] dataForTesting = DataHelper.evalDatabaseTable("com.mysql.jdbc.Driver",
 				"jdbc:mysql://localhost:8889/Amazon_db1", "root", "root", "products");
@@ -45,7 +46,7 @@ public class TestWithDataFromFiles extends BasicTest {
 	public void testAmazon2003() throws InvalidExcelExtensionException {
 		System.out.println("Amazon Test 2003");
 		Object[][] data2003 = excel2003Data();
-		DataHelper.displayData2(data2003);
+		DataHelper.displayData(data2003);
 	}
 
 	@Test(dataProvider = "excelNewData")

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="5" total="5" passed="0">
+<testng-results skipped="0" failed="2" total="2" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="55789" started-at="2017-02-11T05:00:48Z" finished-at="2017-02-11T05:01:44Z">
+  <suite name="Default suite" duration-ms="119034" started-at="2017-02-11T19:08:12Z" finished-at="2017-02-11T19:10:11Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="55789" started-at="2017-02-11T05:00:48Z" finished-at="2017-02-11T05:01:44Z">
+    <test name="Default test" duration-ms="119034" started-at="2017-02-11T19:08:12Z" finished-at="2017-02-11T19:10:11Z">
       <class name="com.sqa.gy.AmazonCartTest1">
-        <test-method status="PASS" signature="setUpChrome()[pri:0, instance:com.sqa.gy.AmazonCartTest1@1e8de47d]" name="setUpChrome" is-config="true" duration-ms="3517" started-at="2017-02-10T21:00:48Z" finished-at="2017-02-10T21:00:52Z">
+        <test-method status="PASS" signature="setUpChrome()[pri:0, instance:com.sqa.gy.AmazonCartTest1@7b71d427]" name="setUpChrome" is-config="true" duration-ms="3807" started-at="2017-02-11T11:08:12Z" finished-at="2017-02-11T11:08:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpChrome -->
-        <test-method status="FAIL" signature="testAddingItemsToCart(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.sqa.gy.AmazonCartTest1@1e8de47d]" name="testAddingItemsToCart" duration-ms="8081" started-at="2017-02-10T21:00:52Z" data-provider="fromSQL1" finished-at="2017-02-10T21:01:00Z">
+        <test-method status="FAIL" signature="testAddingItemsToCart(int, java.lang.String, int, double)[pri:0, instance:com.sqa.gy.AmazonCartTest1@7b71d427]" name="testAddingItemsToCart" duration-ms="70815" started-at="2017-02-11T11:08:16Z" data-provider="csvData" finished-at="2017-02-11T11:09:27Z">
           <params>
             <param index="0">
               <value>
@@ -20,239 +20,63 @@
             </param>
             <param index="1">
               <value>
-                <![CDATA[giant teddy bear valentines day heart]]>
+                <![CDATA[Shoes]]>
               </value>
             </param>
             <param index="2">
-              <value>
-                <![CDATA[5]]>
-              </value>
-            </param>
-            <param index="3">
-              <value>
-                <![CDATA[899.95]]>
-              </value>
-            </param>
-          </params>
-          <exception class="java.lang.NullPointerException">
-            <full-stacktrace>
-              <![CDATA[java.lang.NullPointerException
-	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
-	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
-	at com.sun.proxy.$Proxy8.getTagName(Unknown Source)
-	at org.openqa.selenium.support.ui.Select.<init>(Select.java:44)
-	at com.sqa.gy.amazonPages.AmazonItemPage.selectQuantityToBuy(AmazonItemPage.java:29)
-	at com.sqa.gy.AmazonCartTest1.testAddingItemsToCart(AmazonCartTest1.java:48)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.lang.reflect.Method.invoke(Method.java:606)
-	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
-	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
-	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
-	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
-	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
-	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
-	at org.testng.TestRunner.privateRun(TestRunner.java:782)
-	at org.testng.TestRunner.run(TestRunner.java:632)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
-	at org.testng.TestNG.run(TestNG.java:1064)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
-]]>
-            </full-stacktrace>
-          </exception> <!-- java.lang.NullPointerException -->
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testAddingItemsToCart -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sqa.gy.AmazonCartTest1@1e8de47d]" name="tearDown" is-config="true" duration-ms="123" started-at="2017-02-10T21:01:00Z" finished-at="2017-02-10T21:01:00Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUpChrome()[pri:0, instance:com.sqa.gy.AmazonCartTest1@1e8de47d]" name="setUpChrome" is-config="true" duration-ms="3222" started-at="2017-02-10T21:01:00Z" finished-at="2017-02-10T21:01:03Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUpChrome -->
-        <test-method status="FAIL" signature="testAddingItemsToCart(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.sqa.gy.AmazonCartTest1@1e8de47d]" name="testAddingItemsToCart" duration-ms="8206" started-at="2017-02-10T21:01:03Z" data-provider="fromSQL1" finished-at="2017-02-10T21:01:11Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[2]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[diamond earrings ]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[25]]>
-              </value>
-            </param>
-            <param index="3">
-              <value>
-                <![CDATA[3499.75]]>
-              </value>
-            </param>
-          </params>
-          <exception class="java.lang.NullPointerException">
-            <full-stacktrace>
-              <![CDATA[java.lang.NullPointerException
-	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
-	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
-	at com.sun.proxy.$Proxy8.getTagName(Unknown Source)
-	at org.openqa.selenium.support.ui.Select.<init>(Select.java:44)
-	at com.sqa.gy.amazonPages.AmazonItemPage.selectQuantityToBuy(AmazonItemPage.java:29)
-	at com.sqa.gy.AmazonCartTest1.testAddingItemsToCart(AmazonCartTest1.java:48)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.lang.reflect.Method.invoke(Method.java:606)
-	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
-	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
-	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
-	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
-	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
-	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
-	at org.testng.TestRunner.privateRun(TestRunner.java:782)
-	at org.testng.TestRunner.run(TestRunner.java:632)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
-	at org.testng.TestNG.run(TestNG.java:1064)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
-]]>
-            </full-stacktrace>
-          </exception> <!-- java.lang.NullPointerException -->
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testAddingItemsToCart -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sqa.gy.AmazonCartTest1@1e8de47d]" name="tearDown" is-config="true" duration-ms="154" started-at="2017-02-10T21:01:11Z" finished-at="2017-02-10T21:01:12Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUpChrome()[pri:0, instance:com.sqa.gy.AmazonCartTest1@1e8de47d]" name="setUpChrome" is-config="true" duration-ms="3175" started-at="2017-02-10T21:01:12Z" finished-at="2017-02-10T21:01:15Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUpChrome -->
-        <test-method status="FAIL" signature="testAddingItemsToCart(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.sqa.gy.AmazonCartTest1@1e8de47d]" name="testAddingItemsToCart" duration-ms="7916" started-at="2017-02-10T21:01:15Z" data-provider="fromSQL1" finished-at="2017-02-10T21:01:23Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[3]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[heart shaped ice tray]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[3]]>
-              </value>
-            </param>
-            <param index="3">
-              <value>
-                <![CDATA[19.17]]>
-              </value>
-            </param>
-          </params>
-          <exception class="java.lang.NullPointerException">
-            <full-stacktrace>
-              <![CDATA[java.lang.NullPointerException
-	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
-	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
-	at com.sun.proxy.$Proxy8.getTagName(Unknown Source)
-	at org.openqa.selenium.support.ui.Select.<init>(Select.java:44)
-	at com.sqa.gy.amazonPages.AmazonItemPage.selectQuantityToBuy(AmazonItemPage.java:29)
-	at com.sqa.gy.AmazonCartTest1.testAddingItemsToCart(AmazonCartTest1.java:48)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.lang.reflect.Method.invoke(Method.java:606)
-	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
-	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
-	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
-	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
-	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
-	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
-	at org.testng.TestRunner.privateRun(TestRunner.java:782)
-	at org.testng.TestRunner.run(TestRunner.java:632)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
-	at org.testng.TestNG.run(TestNG.java:1064)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
-]]>
-            </full-stacktrace>
-          </exception> <!-- java.lang.NullPointerException -->
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testAddingItemsToCart -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sqa.gy.AmazonCartTest1@1e8de47d]" name="tearDown" is-config="true" duration-ms="123" started-at="2017-02-10T21:01:23Z" finished-at="2017-02-10T21:01:23Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUpChrome()[pri:0, instance:com.sqa.gy.AmazonCartTest1@1e8de47d]" name="setUpChrome" is-config="true" duration-ms="2939" started-at="2017-02-10T21:01:23Z" finished-at="2017-02-10T21:01:26Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUpChrome -->
-        <test-method status="FAIL" signature="testAddingItemsToCart(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.sqa.gy.AmazonCartTest1@1e8de47d]" name="testAddingItemsToCart" duration-ms="6946" started-at="2017-02-10T21:01:26Z" data-provider="fromSQL1" finished-at="2017-02-10T21:01:33Z">
-          <params>
-            <param index="0">
               <value>
                 <![CDATA[4]]>
               </value>
             </param>
-            <param index="1">
-              <value>
-                <![CDATA[chocolate covered strawberries boxes]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[1]]>
-              </value>
-            </param>
             <param index="3">
               <value>
-                <![CDATA[29.95]]>
+                <![CDATA[45]]>
               </value>
             </param>
           </params>
-          <exception class="java.lang.NullPointerException">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"id","selector":"quantity"}
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9),platform=Mac OS X 10.12.2 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 30.02 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'Galinas-Air', ip: '192.168.42.83', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.2', java.version: '1.7.0_80'
+*** Element info: {Using=id, value=quantity}
+Session ID: 8943f806c84424b2adb0693154fdc985
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=MAC, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=/var/folders/w2/q3h1mw_j7bq_ynd_t068gtph0000gn/T/.org.chromium.Chromium.c3EqPg, chromedriverVersion=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9)}, networkConnectionEnabled=false, unexpectedAlertBehaviour=, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=56.0.2924.87, pageLoadStrategy=normal, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]]]>
+            </message>
             <full-stacktrace>
-              <![CDATA[java.lang.NullPointerException
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"quantity"}
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9),platform=Mac OS X 10.12.2 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 30.02 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'Galinas-Air', ip: '192.168.42.83', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.2', java.version: '1.7.0_80'
+*** Element info: {Using=id, value=quantity}
+Session ID: 8943f806c84424b2adb0693154fdc985
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=MAC, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=/var/folders/w2/q3h1mw_j7bq_ynd_t068gtph0000gn/T/.org.chromium.Chromium.c3EqPg, chromedriverVersion=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9)}, networkConnectionEnabled=false, unexpectedAlertBehaviour=, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=56.0.2924.87, pageLoadStrategy=normal, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:413)
+	at org.openqa.selenium.By$ById.findElement(By.java:218)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
 	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
 	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
 	at com.sun.proxy.$Proxy8.getTagName(Unknown Source)
 	at org.openqa.selenium.support.ui.Select.<init>(Select.java:44)
 	at com.sqa.gy.amazonPages.AmazonItemPage.selectQuantityToBuy(AmazonItemPage.java:29)
-	at com.sqa.gy.AmazonCartTest1.testAddingItemsToCart(AmazonCartTest1.java:48)
+	at com.sqa.gy.AmazonCartTest1.testAddingItemsToCart(AmazonCartTest1.java:61)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -279,50 +103,53 @@
 	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
 ]]>
             </full-stacktrace>
-          </exception> <!-- java.lang.NullPointerException -->
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testAddingItemsToCart -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sqa.gy.AmazonCartTest1@1e8de47d]" name="tearDown" is-config="true" duration-ms="129" started-at="2017-02-10T21:01:33Z" finished-at="2017-02-10T21:01:33Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sqa.gy.AmazonCartTest1@7b71d427]" name="tearDown" is-config="true" duration-ms="113" started-at="2017-02-11T11:09:27Z" finished-at="2017-02-11T11:09:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUpChrome()[pri:0, instance:com.sqa.gy.AmazonCartTest1@1e8de47d]" name="setUpChrome" is-config="true" duration-ms="3111" started-at="2017-02-10T21:01:33Z" finished-at="2017-02-10T21:01:36Z">
+        <test-method status="PASS" signature="setUpChrome()[pri:0, instance:com.sqa.gy.AmazonCartTest1@7b71d427]" name="setUpChrome" is-config="true" duration-ms="2951" started-at="2017-02-11T11:09:27Z" finished-at="2017-02-11T11:09:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpChrome -->
-        <test-method status="FAIL" signature="testAddingItemsToCart(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.sqa.gy.AmazonCartTest1@1e8de47d]" name="testAddingItemsToCart" duration-ms="7704" started-at="2017-02-10T21:01:36Z" data-provider="fromSQL1" finished-at="2017-02-10T21:01:44Z">
+        <test-method status="FAIL" signature="testAddingItemsToCart(int, java.lang.String, int, double)[pri:0, instance:com.sqa.gy.AmazonCartTest1@7b71d427]" name="testAddingItemsToCart" duration-ms="41174" started-at="2017-02-11T11:09:30Z" data-provider="csvData" finished-at="2017-02-11T11:10:11Z">
           <params>
             <param index="0">
-              <value>
-                <![CDATA[5]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[i love you pillowcase]]>
-              </value>
-            </param>
-            <param index="2">
               <value>
                 <![CDATA[2]]>
               </value>
             </param>
+            <param index="1">
+              <value>
+                <![CDATA[Food]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
             <param index="3">
               <value>
-                <![CDATA[21]]>
+                <![CDATA[76]]>
               </value>
             </param>
           </params>
-          <exception class="java.lang.NullPointerException">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [76.0] but found [119.94]]]>
+            </message>
             <full-stacktrace>
-              <![CDATA[java.lang.NullPointerException
-	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
-	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
-	at com.sun.proxy.$Proxy8.getTagName(Unknown Source)
-	at org.openqa.selenium.support.ui.Select.<init>(Select.java:44)
-	at com.sqa.gy.amazonPages.AmazonItemPage.selectQuantityToBuy(AmazonItemPage.java:29)
-	at com.sqa.gy.AmazonCartTest1.testAddingItemsToCart(AmazonCartTest1.java:48)
+              <![CDATA[java.lang.AssertionError: expected [76.0] but found [119.94]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:135)
+	at org.testng.Assert.assertEquals(Assert.java:116)
+	at org.testng.Assert.assertEquals(Assert.java:179)
+	at com.sqa.gy.AmazonCartTest1.testAddingItemsToCart(AmazonCartTest1.java:82)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -349,11 +176,11 @@
 	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
 ]]>
             </full-stacktrace>
-          </exception> <!-- java.lang.NullPointerException -->
+          </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testAddingItemsToCart -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sqa.gy.AmazonCartTest1@1e8de47d]" name="tearDown" is-config="true" duration-ms="113" started-at="2017-02-10T21:01:44Z" finished-at="2017-02-10T21:01:44Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sqa.gy.AmazonCartTest1@7b71d427]" name="tearDown" is-config="true" duration-ms="119" started-at="2017-02-11T11:10:11Z" finished-at="2017-02-11T11:10:11Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

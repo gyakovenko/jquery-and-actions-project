@@ -8,6 +8,7 @@ import org.testng.annotations.*;
 
 import com.sqa.gy.amazonPages.*;
 import com.sqa.gy.helpers.*;
+import com.sqa.gy.helpers.exceptions.*;
 
 public class AmazonCartTest1 extends BasicTest {
 
@@ -16,15 +17,23 @@ public class AmazonCartTest1 extends BasicTest {
 	}
 
 	@DataProvider
-	public Object[][] fromSQL1() throws ClassNotFoundException, SQLException {
+	public Object[][] csvData() throws InvalidExcelExtensionException {
+		Object[][] data = DataHelper.getTextFileData("", "products.csv", TextFormat.CSV,
+				new DataType[] { DataType.INT, DataType.STRING, DataType.INT, DataType.DOUBLE });
+		return data;
+	}
+
+	@DataProvider
+	public Object[][] fromSQL1() throws ClassNotFoundException, SQLException, DataTypesMismatchException,
+			DataTypesCountException, DataTypesTypeException {
 		getLogger().info("Getting data from db and passing it");
 		Object[][] dataForTesting = DataHelper.evalDatabaseTable("com.mysql.jdbc.Driver",
 				"jdbc:mysql://localhost:8889/Amazon_db1", "root", "root", "products");
 		return dataForTesting;
 	}
 
-	@Test(dataProvider = "fromSQL1")
-	public void testAddingItemsToCart(String id, String item, String quantity, String priceTotalExpected) {
+	@Test(dataProvider = "csvData")
+	public void testAddingItemsToCart(int id, String item, int quantity, double priceTotalExpected) {
 		// automatically creates the instance of amazonCartTest1 above. And
 		// thats why the url goes up there not here
 
@@ -49,7 +58,7 @@ public class AmazonCartTest1 extends BasicTest {
 		// Product Page
 		getLogger().info("Item Page: Selecting quantity " + quantity);
 		AmazonItemPage itemPage = new AmazonItemPage(getDriver());
-		itemPage.selectQuantityToBuy(quantity);
+		itemPage.selectQuantityToBuy(Integer.toString(quantity));
 
 		getLogger().info("Adding to cart");
 		itemPage.clickAddToCart();
@@ -70,7 +79,7 @@ public class AmazonCartTest1 extends BasicTest {
 		// Asserting Equals
 		getLogger().info("Actual Subtotal: " + subtotalDouble);
 		getLogger().info("Expected Expected: " + priceTotalExpected);
-		Assert.assertEquals(subtotalDouble, Double.parseDouble(priceTotalExpected));
+		Assert.assertEquals(subtotalDouble, priceTotalExpected);
 	}
 
 }

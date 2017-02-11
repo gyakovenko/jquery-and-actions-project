@@ -1219,3 +1219,25 @@
 2017-02-10 21:32:44 INFO  BasicTest:34 - Sending keys to search bar
 2017-02-10 21:32:45 INFO  BasicTest:36 - Submitting on search button
 2017-02-10 21:32:48 INFO  BasicTest:41 - Search Results Page: Clicking on first result
+2017-02-11 10:24:48 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-11 10:25:41 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-11 10:26:15 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-11 10:26:37 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-11 11:08:12 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-11 11:08:16 INFO  BasicTest:42 - Homepage: Searching for item Shoes
+2017-02-11 11:08:16 INFO  BasicTest:43 - Sending keys to search bar
+2017-02-11 11:08:18 INFO  BasicTest:45 - Submitting on search button
+2017-02-11 11:08:54 INFO  BasicTest:50 - Search Results Page: Clicking on first result
+2017-02-11 11:08:57 INFO  BasicTest:59 - Item Page: Selecting quantity 4
+2017-02-11 11:09:30 INFO  BasicTest:42 - Homepage: Searching for item Food
+2017-02-11 11:09:30 INFO  BasicTest:43 - Sending keys to search bar
+2017-02-11 11:09:32 INFO  BasicTest:45 - Submitting on search button
+2017-02-11 11:10:05 INFO  BasicTest:50 - Search Results Page: Clicking on first result
+2017-02-11 11:10:09 INFO  BasicTest:59 - Item Page: Selecting quantity 6
+2017-02-11 11:10:09 INFO  BasicTest:63 - Adding to cart
+2017-02-11 11:10:10 INFO  BasicTest:68 - Added To Cart Page: Clicking on shopping cart icon
+2017-02-11 11:10:11 INFO  BasicTest:73 - Shopping Cart Page: Retrieving Subtotal
+2017-02-11 11:10:11 INFO  BasicTest:75 - subtotalString: $119.94
+2017-02-11 11:10:11 INFO  BasicTest:76 - Converting subtotal string to double
+2017-02-11 11:10:11 INFO  BasicTest:80 - Actual Subtotal: 119.94
+2017-02-11 11:10:11 INFO  BasicTest:81 - Expected Expected: 76.0
