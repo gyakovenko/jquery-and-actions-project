@@ -30,7 +30,8 @@ public class AppBasics {
 
 	public static double convertMoneyStringIntoDouble(String moneyString) {
 		double moneyDouble = 0;
-		if (moneyString.substring(0, 0).equalsIgnoreCase("$")) {
+		System.out.println(moneyString.substring(0, 0));
+		if (moneyString.substring(0, 1).equalsIgnoreCase("$")) {
 			moneyString = moneyString.substring(1);
 		}
 		if (moneyString.contains(",")) {
