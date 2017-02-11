@@ -28,11 +28,12 @@ public class AmazonCartTest1 extends BasicTest {
 			DataTypesCountException, DataTypesTypeException {
 		getLogger().info("Getting data from db and passing it");
 		Object[][] dataForTesting = DataHelper.evalDatabaseTable("com.mysql.jdbc.Driver",
-				"jdbc:mysql://localhost:8889/Amazon_db1", "root", "root", "products");
+				"jdbc:mysql://localhost:8889/Amazon_db1", "root", "root", "products", 0, 0,
+				new DataType[] { DataType.INT, DataType.STRING, DataType.INT, DataType.DOUBLE });
 		return dataForTesting;
 	}
 
-	@Test(dataProvider = "csvData")
+	@Test(dataProvider = "fromSQL1")
 	public void testAddingItemsToCart(int id, String item, int quantity, double priceTotalExpected) {
 		// automatically creates the instance of amazonCartTest1 above. And
 		// thats why the url goes up there not here

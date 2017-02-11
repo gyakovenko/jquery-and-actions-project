@@ -1241,3 +1241,26 @@
 2017-02-11 11:10:11 INFO  BasicTest:76 - Converting subtotal string to double
 2017-02-11 11:10:11 INFO  BasicTest:80 - Actual Subtotal: 119.94
 2017-02-11 11:10:11 INFO  BasicTest:81 - Expected Expected: 76.0
+2017-02-11 11:46:40 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-11 11:46:40 INFO  BasicTest:29 - Getting data from db and passing it
+2017-02-11 11:47:09 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-11 11:47:09 INFO  BasicTest:29 - Getting data from db and passing it
+2017-02-11 11:51:37 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-11 11:51:37 INFO  BasicTest:29 - Getting data from db and passing it
+2017-02-11 11:52:34 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-11 11:52:34 INFO  BasicTest:29 - Getting data from db and passing it
+2017-02-11 11:52:38 INFO  BasicTest:43 - Homepage: Searching for item giant teddy bear valentines day heart
+2017-02-11 11:52:38 INFO  BasicTest:44 - Sending keys to search bar
+2017-02-11 11:52:40 INFO  BasicTest:46 - Submitting on search button
+2017-02-11 11:52:42 INFO  BasicTest:51 - Search Results Page: Clicking on first result
+2017-02-11 11:52:48 INFO  BasicTest:60 - Item Page: Selecting quantity 5
+2017-02-11 11:52:48 INFO  BasicTest:64 - Adding to cart
+2017-02-11 11:52:50 INFO  BasicTest:69 - Added To Cart Page: Clicking on shopping cart icon
+2017-02-11 11:52:52 INFO  BasicTest:74 - Shopping Cart Page: Retrieving Subtotal
+2017-02-11 11:52:52 INFO  BasicTest:76 - subtotalString: $899.95
+2017-02-11 11:52:52 INFO  BasicTest:77 - Converting subtotal string to double
+2017-02-11 11:52:52 INFO  BasicTest:81 - Actual Subtotal: 899.95
+2017-02-11 11:52:52 INFO  BasicTest:82 - Expected Expected: 899.95
+2017-02-11 11:52:56 INFO  BasicTest:43 - Homepage: Searching for item diamond earrings 
+2017-02-11 11:52:56 INFO  BasicTest:44 - Sending keys to search bar
+2017-02-11 11:52:59 INFO  BasicTest:46 - Submitting on search button

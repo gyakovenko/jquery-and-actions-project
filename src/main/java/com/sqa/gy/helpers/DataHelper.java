@@ -103,8 +103,12 @@ public class DataHelper {
 							break;
 						case INT:
 							rowData[i] = rs.getInt(i + colOffset + 1);
+							break;
 						case FLOAT:
 							rowData[i] = rs.getFloat(i + colOffset + 1);
+							break;
+						case DOUBLE:
+							rowData[i] = rs.getDouble(i + colOffset + 1);
 							break;
 						default:
 							break;
