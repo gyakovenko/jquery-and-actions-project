@@ -6,14 +6,14 @@ import org.openqa.selenium.support.*;
 
 public class BasicPage {
 
-	private WebDriver driver;
+	public Logger logger;
 
-	private Logger logger;
+	private WebDriver driver;
 
 	public BasicPage(WebDriver driver) {
 		this.driver = driver;
 		PageFactory.initElements(driver, this);
-		this.logger = Logger.getLogger(BasicTest.class); // you pass in the
+		this.logger = Logger.getLogger(BasicPage.class); // you pass in the
 															// class type. you
 															// could put in a
 															// string, but

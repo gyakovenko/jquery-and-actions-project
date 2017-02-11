@@ -78,3 +78,1020 @@
 2017-02-08 23:08:13 INFO  BasicTest:34 - Sending keys to search bar
 2017-02-08 23:08:13 INFO  BasicTest:37 - submitting on search button
 2017-02-08 23:08:13 INFO  BasicTest:39 - submitting on search button
+2017-02-08 23:23:45 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-08 23:23:45 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-08 23:23:49 INFO  BasicTest:34 - Sending keys to search bar
+2017-02-08 23:23:51 INFO  BasicTest:37 - submitting on search button
+2017-02-08 23:23:51 INFO  BasicTest:39 - submitting on search button
+2017-02-08 23:24:02 INFO  BasicTest:34 - Sending keys to search bar
+2017-02-08 23:24:03 INFO  BasicTest:37 - submitting on search button
+2017-02-08 23:24:03 INFO  BasicTest:39 - submitting on search button
+2017-02-08 23:24:16 INFO  BasicTest:34 - Sending keys to search bar
+2017-02-08 23:24:18 INFO  BasicTest:37 - submitting on search button
+2017-02-08 23:24:18 INFO  BasicTest:39 - submitting on search button
+2017-02-08 23:24:30 INFO  BasicTest:34 - Sending keys to search bar
+2017-02-08 23:24:32 INFO  BasicTest:37 - submitting on search button
+2017-02-08 23:24:32 INFO  BasicTest:39 - submitting on search button
+2017-02-08 23:24:44 INFO  BasicTest:34 - Sending keys to search bar
+2017-02-08 23:24:45 INFO  BasicTest:37 - submitting on search button
+2017-02-08 23:24:45 INFO  BasicTest:39 - submitting on search button
+2017-02-08 23:29:50 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-08 23:29:50 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-08 23:30:14 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-08 23:30:14 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-08 23:30:51 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-08 23:30:52 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-08 23:32:03 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-08 23:32:03 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-08 23:32:08 INFO  BasicTest:34 - Sending keys to search bar
+2017-02-08 23:32:10 INFO  BasicTest:37 - submitting on search button
+2017-02-08 23:32:10 INFO  BasicTest:39 - submitting on search button
+2017-02-09 09:47:38 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 09:47:38 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-09 09:49:14 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 09:49:14 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-09 09:50:12 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 09:50:12 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-09 09:50:18 INFO  BasicTest:34 - Sending keys to search bar
+2017-02-09 09:52:33 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 09:52:33 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-09 09:52:40 INFO  BasicTest:34 - Sending keys to search bar
+2017-02-09 09:52:42 INFO  BasicTest:37 - submitting on search button
+2017-02-09 09:52:42 INFO  BasicTest:39 - submitting on search button
+2017-02-09 09:52:59 INFO  BasicTest:34 - Sending keys to search bar
+2017-02-09 09:53:01 INFO  BasicTest:37 - submitting on search button
+2017-02-09 09:53:01 INFO  BasicTest:39 - submitting on search button
+2017-02-09 09:54:30 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 09:54:30 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-09 09:54:37 INFO  BasicTest:34 - Sending keys to search bar
+2017-02-09 09:54:39 INFO  BasicTest:37 - Finding search button
+2017-02-09 09:54:39 INFO  BasicTest:39 - Submitting on search button
+2017-02-09 09:54:47 INFO  BasicTest:55 - subtotalString: $899.95
+2017-02-09 09:54:47 INFO  BasicTest:57 - subtotalString: $899.95
+2017-02-09 09:54:54 INFO  BasicTest:34 - Sending keys to search bar
+2017-02-09 09:54:56 INFO  BasicTest:37 - Finding search button
+2017-02-09 09:54:56 INFO  BasicTest:39 - Submitting on search button
+2017-02-09 09:55:32 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 09:55:32 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-09 09:55:54 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 09:55:54 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-09 09:56:02 INFO  BasicTest:34 - Sending keys to search bar
+2017-02-09 09:56:05 INFO  BasicTest:37 - Finding search button
+2017-02-09 09:56:05 INFO  BasicTest:39 - Submitting on search button
+2017-02-09 09:56:14 INFO  BasicTest:55 - subtotalString: $899.95
+2017-02-09 09:56:14 INFO  BasicTest:57 - subtotalString: 899.95
+2017-02-09 09:56:21 INFO  BasicTest:34 - Sending keys to search bar
+2017-02-09 09:56:23 INFO  BasicTest:37 - Finding search button
+2017-02-09 09:56:23 INFO  BasicTest:39 - Submitting on search button
+2017-02-09 09:56:35 INFO  BasicTest:55 - subtotalString: $4,749.75
+2017-02-09 09:56:35 INFO  BasicTest:57 - subtotalString: 4,749.75
+2017-02-09 09:56:43 INFO  BasicTest:34 - Sending keys to search bar
+2017-02-09 09:56:45 INFO  BasicTest:37 - Finding search button
+2017-02-09 09:56:45 INFO  BasicTest:39 - Submitting on search button
+2017-02-09 09:56:56 INFO  BasicTest:55 - subtotalString: $18.60
+2017-02-09 09:56:56 INFO  BasicTest:57 - subtotalString: 18.60
+2017-02-09 09:57:03 INFO  BasicTest:34 - Sending keys to search bar
+2017-02-09 09:57:04 INFO  BasicTest:37 - Finding search button
+2017-02-09 09:57:04 INFO  BasicTest:39 - Submitting on search button
+2017-02-09 09:57:15 INFO  BasicTest:55 - subtotalString: $29.95
+2017-02-09 09:57:15 INFO  BasicTest:57 - subtotalString: 29.95
+2017-02-09 09:57:21 INFO  BasicTest:34 - Sending keys to search bar
+2017-02-09 09:57:28 INFO  BasicTest:37 - Finding search button
+2017-02-09 09:57:28 INFO  BasicTest:39 - Submitting on search button
+2017-02-09 09:59:38 INFO  BasicTest:55 - subtotalString: $21.00
+2017-02-09 09:59:38 INFO  BasicTest:57 - subtotalString: 21.00
+2017-02-09 10:05:15 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 10:05:15 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-09 10:05:36 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 10:05:36 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-09 10:05:53 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 10:05:53 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-09 10:06:28 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 10:06:28 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-09 10:06:35 INFO  BasicTest:34 - Sending keys to search bar
+2017-02-09 10:06:37 INFO  BasicTest:37 - Finding search button
+2017-02-09 10:06:37 INFO  BasicTest:39 - Submitting on search button
+2017-02-09 10:06:47 INFO  BasicTest:55 - subtotalString: $899.95
+2017-02-09 10:06:47 INFO  BasicTest:58 - subtotalString: $899.95
+2017-02-09 10:07:24 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 10:07:25 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-09 10:07:59 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 10:07:59 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-09 10:08:06 INFO  BasicTest:34 - Sending keys to search bar
+2017-02-09 10:08:07 INFO  BasicTest:37 - Finding search button
+2017-02-09 10:08:07 INFO  BasicTest:39 - Submitting on search button
+2017-02-09 10:08:17 INFO  BasicTest:55 - subtotalString: $899.95
+2017-02-09 10:08:17 INFO  BasicTest:58 - subtotalString: $899.95
+2017-02-09 10:20:44 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 10:20:44 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-09 10:21:08 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 10:21:08 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-09 10:21:29 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 10:21:29 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-09 10:21:50 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 10:21:50 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-09 10:21:58 INFO  BasicTest:34 - Sending keys to search bar
+2017-02-09 10:22:05 INFO  BasicTest:37 - Finding search button
+2017-02-09 10:22:05 INFO  BasicTest:39 - Submitting on search button
+2017-02-09 10:22:24 INFO  BasicTest:55 - subtotalString: $899.95
+2017-02-09 10:22:24 INFO  BasicTest:60 - subtotalString: 899.95
+2017-02-09 10:22:30 INFO  BasicTest:34 - Sending keys to search bar
+2017-02-09 10:22:32 INFO  BasicTest:37 - Finding search button
+2017-02-09 10:22:32 INFO  BasicTest:39 - Submitting on search button
+2017-02-09 10:22:46 INFO  BasicTest:55 - subtotalString: $4,749.75
+2017-02-09 10:22:46 INFO  BasicTest:60 - subtotalString: 4749.75
+2017-02-09 10:22:53 INFO  BasicTest:34 - Sending keys to search bar
+2017-02-09 10:22:55 INFO  BasicTest:37 - Finding search button
+2017-02-09 10:22:55 INFO  BasicTest:39 - Submitting on search button
+2017-02-09 10:23:06 INFO  BasicTest:55 - subtotalString: $19.17
+2017-02-09 10:23:06 INFO  BasicTest:60 - subtotalString: 19.17
+2017-02-09 10:23:13 INFO  BasicTest:34 - Sending keys to search bar
+2017-02-09 10:23:14 INFO  BasicTest:37 - Finding search button
+2017-02-09 10:23:14 INFO  BasicTest:39 - Submitting on search button
+2017-02-09 10:23:25 INFO  BasicTest:55 - subtotalString: $29.95
+2017-02-09 10:23:25 INFO  BasicTest:60 - subtotalString: 29.95
+2017-02-09 10:23:33 INFO  BasicTest:34 - Sending keys to search bar
+2017-02-09 10:23:34 INFO  BasicTest:37 - Finding search button
+2017-02-09 10:23:34 INFO  BasicTest:39 - Submitting on search button
+2017-02-09 10:23:53 INFO  BasicTest:55 - subtotalString: $21.00
+2017-02-09 10:23:53 INFO  BasicTest:60 - subtotalString: 21.00
+2017-02-09 10:25:12 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 10:25:13 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-09 10:25:38 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 10:25:38 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-09 10:26:07 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 10:26:07 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-09 10:26:57 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 10:26:57 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-09 10:28:03 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 10:28:03 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-09 10:28:10 INFO  BasicTest:34 - Sending keys to search bar
+2017-02-09 10:28:12 INFO  BasicTest:37 - Finding search button
+2017-02-09 10:28:12 INFO  BasicTest:39 - Submitting on search button
+2017-02-09 10:28:22 INFO  BasicTest:55 - subtotalString: $59.75
+2017-02-09 10:28:22 INFO  BasicTest:60 - subtotalString: 59.75
+2017-02-09 10:28:22 INFO  BasicTest:67 - Actual: 59.75
+2017-02-09 10:28:22 INFO  BasicTest:68 - Expected: 59.75
+2017-02-09 10:28:28 INFO  BasicTest:34 - Sending keys to search bar
+2017-02-09 10:30:02 INFO  BasicTest:37 - Finding search button
+2017-02-09 10:30:21 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 10:30:21 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-09 10:30:27 INFO  BasicTest:34 - Sending keys to search bar
+2017-02-09 10:30:29 INFO  BasicTest:37 - Finding search button
+2017-02-09 10:30:29 INFO  BasicTest:39 - Submitting on search button
+2017-02-09 10:30:38 INFO  BasicTest:55 - subtotalString: $899.95
+2017-02-09 10:30:38 INFO  BasicTest:60 - subtotalString: 899.95
+2017-02-09 10:30:38 INFO  BasicTest:67 - Actual: 899.95
+2017-02-09 10:30:38 INFO  BasicTest:68 - Expected: 59.75
+2017-02-09 10:30:45 INFO  BasicTest:34 - Sending keys to search bar
+2017-02-09 10:30:48 INFO  BasicTest:37 - Finding search button
+2017-02-09 10:30:48 INFO  BasicTest:39 - Submitting on search button
+2017-02-09 10:31:00 INFO  BasicTest:55 - subtotalString: $4,749.75
+2017-02-09 10:31:00 INFO  BasicTest:60 - subtotalString: 4749.75
+2017-02-09 10:31:00 INFO  BasicTest:67 - Actual: 4749.75
+2017-02-09 10:31:00 INFO  BasicTest:68 - Expected: 3499.75
+2017-02-09 10:31:07 INFO  BasicTest:34 - Sending keys to search bar
+2017-02-09 10:31:11 INFO  BasicTest:37 - Finding search button
+2017-02-09 10:31:11 INFO  BasicTest:39 - Submitting on search button
+2017-02-09 10:31:20 INFO  BasicTest:55 - subtotalString: $19.17
+2017-02-09 10:31:20 INFO  BasicTest:60 - subtotalString: 19.17
+2017-02-09 10:31:20 INFO  BasicTest:67 - Actual: 19.17
+2017-02-09 10:31:20 INFO  BasicTest:68 - Expected: 18.03
+2017-02-09 10:31:26 INFO  BasicTest:34 - Sending keys to search bar
+2017-02-09 10:31:28 INFO  BasicTest:37 - Finding search button
+2017-02-09 10:31:28 INFO  BasicTest:39 - Submitting on search button
+2017-02-09 10:31:40 INFO  BasicTest:55 - subtotalString: $29.95
+2017-02-09 10:31:40 INFO  BasicTest:60 - subtotalString: 29.95
+2017-02-09 10:31:40 INFO  BasicTest:67 - Actual: 29.95
+2017-02-09 10:31:40 INFO  BasicTest:68 - Expected: 29.95
+2017-02-09 10:31:45 INFO  BasicTest:34 - Sending keys to search bar
+2017-02-09 10:31:53 INFO  BasicTest:37 - Finding search button
+2017-02-09 10:31:53 INFO  BasicTest:39 - Submitting on search button
+2017-02-09 10:32:03 INFO  BasicTest:55 - subtotalString: $21.00
+2017-02-09 10:32:03 INFO  BasicTest:60 - subtotalString: 21.00
+2017-02-09 10:32:03 INFO  BasicTest:67 - Actual: 21.0
+2017-02-09 10:32:03 INFO  BasicTest:68 - Expected: 21
+2017-02-09 10:38:10 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 10:38:11 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-09 10:38:19 INFO  BasicTest:34 - Sending keys to search bar
+2017-02-09 10:38:21 INFO  BasicTest:37 - Finding search button
+2017-02-09 10:38:21 INFO  BasicTest:39 - Submitting on search button
+2017-02-09 10:38:32 INFO  BasicTest:55 - subtotalString: $899.95
+2017-02-09 10:38:32 INFO  BasicTest:60 - subtotalString: 899.95
+2017-02-09 10:38:32 INFO  BasicTest:67 - Actual: 899.95
+2017-02-09 10:38:32 INFO  BasicTest:68 - Expected: 899.95
+2017-02-09 10:38:38 INFO  BasicTest:34 - Sending keys to search bar
+2017-02-09 10:38:39 INFO  BasicTest:37 - Finding search button
+2017-02-09 10:38:39 INFO  BasicTest:39 - Submitting on search button
+2017-02-09 10:38:55 INFO  BasicTest:55 - subtotalString: $3,499.75
+2017-02-09 10:38:55 INFO  BasicTest:60 - subtotalString: 3499.75
+2017-02-09 10:38:55 INFO  BasicTest:67 - Actual: 3499.75
+2017-02-09 10:38:55 INFO  BasicTest:68 - Expected: 3499.75
+2017-02-09 10:39:01 INFO  BasicTest:34 - Sending keys to search bar
+2017-02-09 10:39:04 INFO  BasicTest:37 - Finding search button
+2017-02-09 10:39:04 INFO  BasicTest:39 - Submitting on search button
+2017-02-09 10:39:16 INFO  BasicTest:55 - subtotalString: $19.17
+2017-02-09 10:39:16 INFO  BasicTest:60 - subtotalString: 19.17
+2017-02-09 10:39:16 INFO  BasicTest:67 - Actual: 19.17
+2017-02-09 10:39:16 INFO  BasicTest:68 - Expected: 19.17
+2017-02-09 10:39:22 INFO  BasicTest:34 - Sending keys to search bar
+2017-02-09 10:39:23 INFO  BasicTest:37 - Finding search button
+2017-02-09 10:39:23 INFO  BasicTest:39 - Submitting on search button
+2017-02-09 10:39:33 INFO  BasicTest:55 - subtotalString: $29.95
+2017-02-09 10:39:33 INFO  BasicTest:60 - subtotalString: 29.95
+2017-02-09 10:39:33 INFO  BasicTest:67 - Actual: 29.95
+2017-02-09 10:39:33 INFO  BasicTest:68 - Expected: 29.95
+2017-02-09 10:39:40 INFO  BasicTest:34 - Sending keys to search bar
+2017-02-09 10:39:42 INFO  BasicTest:37 - Finding search button
+2017-02-09 10:39:42 INFO  BasicTest:39 - Submitting on search button
+2017-02-09 10:39:53 INFO  BasicTest:55 - subtotalString: $21.00
+2017-02-09 10:39:53 INFO  BasicTest:60 - subtotalString: 21.00
+2017-02-09 10:39:53 INFO  BasicTest:67 - Actual: 21.0
+2017-02-09 10:39:53 INFO  BasicTest:68 - Expected: 21
+2017-02-09 16:46:56 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 16:46:56 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-09 16:47:00 INFO  BasicTest:35 - Sending keys to search bar
+2017-02-09 16:47:02 INFO  BasicTest:38 - Finding search button
+2017-02-09 16:47:02 INFO  BasicTest:40 - Submitting on search button
+2017-02-09 16:47:10 INFO  BasicTest:56 - subtotalString: $899.95
+2017-02-09 16:47:10 INFO  BasicTest:61 - subtotalString: 899.95
+2017-02-09 16:47:10 INFO  BasicTest:68 - Actual: 899.95
+2017-02-09 16:47:10 INFO  BasicTest:69 - Expected: 899.95
+2017-02-09 16:47:13 INFO  BasicTest:35 - Sending keys to search bar
+2017-02-09 16:47:14 INFO  BasicTest:38 - Finding search button
+2017-02-09 16:47:14 INFO  BasicTest:40 - Submitting on search button
+2017-02-09 17:36:59 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 17:37:00 INFO  BasicTest:19 - Getting data from db and passing it
+2017-02-09 17:37:44 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 17:37:44 INFO  BasicTest:19 - Getting data from db and passing it
+2017-02-09 17:42:09 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 17:42:09 INFO  BasicTest:19 - Getting data from db and passing it
+2017-02-09 17:42:13 INFO  BasicTest:32 - Homepage: Searching for item giant teddy bear valentines day heart
+2017-02-09 17:42:13 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 17:42:20 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 17:42:23 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 17:42:56 INFO  BasicTest:43 - Item Page: Selecting quantity 5
+2017-02-09 17:43:00 INFO  BasicTest:32 - Homepage: Searching for item diamond earrings 
+2017-02-09 17:43:00 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 17:43:02 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 17:43:04 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 17:44:11 INFO  BasicTest:43 - Item Page: Selecting quantity 25
+2017-02-09 17:44:14 INFO  BasicTest:32 - Homepage: Searching for item heart shaped ice tray
+2017-02-09 17:44:14 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 17:44:16 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 17:44:49 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 17:45:21 INFO  BasicTest:43 - Item Page: Selecting quantity 3
+2017-02-09 17:45:25 INFO  BasicTest:32 - Homepage: Searching for item chocolate covered strawberries boxes
+2017-02-09 17:45:25 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 17:45:27 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 17:45:30 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 17:45:33 INFO  BasicTest:43 - Item Page: Selecting quantity 1
+2017-02-09 17:45:36 INFO  BasicTest:32 - Homepage: Searching for item i love you pillowcase
+2017-02-09 17:45:36 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 17:45:38 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 17:46:11 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 17:46:44 INFO  BasicTest:43 - Item Page: Selecting quantity 2
+2017-02-09 17:48:22 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 17:48:22 INFO  BasicTest:19 - Getting data from db and passing it
+2017-02-09 17:49:06 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 17:49:06 INFO  BasicTest:19 - Getting data from db and passing it
+2017-02-09 17:49:09 INFO  BasicTest:32 - Homepage: Searching for item giant teddy bear valentines day heart
+2017-02-09 17:49:09 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 17:49:11 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 17:49:13 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 17:49:46 INFO  BasicTest:43 - Item Page: Selecting quantity 5
+2017-02-09 17:49:50 INFO  BasicTest:32 - Homepage: Searching for item diamond earrings 
+2017-02-09 17:49:50 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 17:49:52 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 17:49:54 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 17:51:21 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 17:51:21 INFO  BasicTest:19 - Getting data from db and passing it
+2017-02-09 17:51:25 INFO  BasicTest:32 - Homepage: Searching for item giant teddy bear valentines day heart
+2017-02-09 17:51:25 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 17:51:27 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 17:51:29 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 17:52:02 INFO  BasicTest:43 - Item Page: Selecting quantity 5
+2017-02-09 17:52:07 INFO  BasicTest:32 - Homepage: Searching for item diamond earrings 
+2017-02-09 17:52:07 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 17:52:10 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 17:52:11 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 17:52:15 INFO  BasicTest:43 - Item Page: Selecting quantity 25
+2017-02-09 17:52:51 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 17:52:51 INFO  BasicTest:19 - Getting data from db and passing it
+2017-02-09 17:52:56 INFO  BasicTest:32 - Homepage: Searching for item giant teddy bear valentines day heart
+2017-02-09 17:52:56 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 17:52:58 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 17:53:00 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 17:53:33 INFO  BasicTest:43 - Item Page: Selecting quantity 5
+2017-02-09 17:56:01 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 17:56:01 INFO  BasicTest:19 - Getting data from db and passing it
+2017-02-09 17:57:03 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 17:57:03 INFO  BasicTest:19 - Getting data from db and passing it
+2017-02-09 17:57:34 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 17:57:34 INFO  BasicTest:19 - Getting data from db and passing it
+2017-02-09 17:58:40 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 17:58:40 INFO  BasicTest:19 - Getting data from db and passing it
+2017-02-09 17:58:43 INFO  BasicTest:32 - Homepage: Searching for item giant teddy bear valentines day heart
+2017-02-09 17:58:43 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 17:58:45 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 17:58:47 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 17:58:51 INFO  BasicTest:43 - Item Page: Selecting quantity 5
+2017-02-09 17:58:54 INFO  BasicTest:32 - Homepage: Searching for item diamond earrings 
+2017-02-09 17:58:54 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 17:58:56 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 17:58:58 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 17:59:32 INFO  BasicTest:43 - Item Page: Selecting quantity 25
+2017-02-09 17:59:36 INFO  BasicTest:32 - Homepage: Searching for item heart shaped ice tray
+2017-02-09 17:59:36 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 17:59:38 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 18:00:11 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 18:00:15 INFO  BasicTest:43 - Item Page: Selecting quantity 3
+2017-02-09 18:00:18 INFO  BasicTest:32 - Homepage: Searching for item chocolate covered strawberries boxes
+2017-02-09 18:00:18 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 18:00:20 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 18:00:22 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 18:00:25 INFO  BasicTest:43 - Item Page: Selecting quantity 1
+2017-02-09 18:00:28 INFO  BasicTest:32 - Homepage: Searching for item i love you pillowcase
+2017-02-09 18:00:28 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 18:00:30 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 18:00:33 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 18:00:37 INFO  BasicTest:43 - Item Page: Selecting quantity 2
+2017-02-09 18:03:39 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 18:03:39 INFO  BasicTest:19 - Getting data from db and passing it
+2017-02-09 18:04:11 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 18:04:11 INFO  BasicTest:19 - Getting data from db and passing it
+2017-02-09 18:04:15 INFO  BasicTest:32 - Homepage: Searching for item giant teddy bear valentines day heart
+2017-02-09 18:04:15 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 18:04:23 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 18:04:25 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 18:04:58 INFO  BasicTest:43 - Item Page: Selecting quantity 5
+2017-02-09 18:05:01 INFO  BasicTest:32 - Homepage: Searching for item diamond earrings 
+2017-02-09 18:05:01 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 18:05:03 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 18:05:06 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 18:10:54 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 18:10:54 INFO  BasicTest:19 - Getting data from db and passing it
+2017-02-09 18:10:58 INFO  BasicTest:32 - Homepage: Searching for item giant teddy bear valentines day heart
+2017-02-09 18:10:58 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 18:11:00 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 18:11:02 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 18:11:36 INFO  BasicTest:43 - Item Page: Selecting quantity 5
+2017-02-09 18:11:37 INFO  BasicTest:46 - Adding to cart
+2017-02-09 18:11:38 INFO  BasicTest:50 - Added To Cart Page: Clicking on shopping cart icon
+2017-02-09 18:11:39 INFO  BasicTest:54 - Shopping Cart Page: Retrieving Subtotal
+2017-02-09 18:11:39 INFO  BasicTest:56 - subtotalString: $899.95
+2017-02-09 18:11:39 INFO  BasicTest:57 - Converting subtotal string to double
+2017-02-09 18:11:39 INFO  BasicTest:61 - Actual Subtotal: 0.0
+2017-02-09 18:11:39 INFO  BasicTest:62 - Expected Expected: 899.95
+2017-02-09 18:11:43 INFO  BasicTest:32 - Homepage: Searching for item diamond earrings 
+2017-02-09 18:11:43 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 18:11:45 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 18:11:47 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 18:12:51 INFO  BasicTest:43 - Item Page: Selecting quantity 25
+2017-02-09 18:12:51 INFO  BasicTest:46 - Adding to cart
+2017-02-09 18:12:52 INFO  BasicTest:50 - Added To Cart Page: Clicking on shopping cart icon
+2017-02-09 18:12:53 INFO  BasicTest:54 - Shopping Cart Page: Retrieving Subtotal
+2017-02-09 18:12:53 INFO  BasicTest:56 - subtotalString: $749.75
+2017-02-09 18:12:53 INFO  BasicTest:57 - Converting subtotal string to double
+2017-02-09 18:12:53 INFO  BasicTest:61 - Actual Subtotal: 0.0
+2017-02-09 18:12:53 INFO  BasicTest:62 - Expected Expected: 3499.75
+2017-02-09 18:12:56 INFO  BasicTest:32 - Homepage: Searching for item heart shaped ice tray
+2017-02-09 18:12:56 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 18:14:58 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 18:14:59 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 18:15:01 INFO  BasicTest:43 - Item Page: Selecting quantity 3
+2017-02-09 18:15:01 INFO  BasicTest:46 - Adding to cart
+2017-02-09 18:15:02 INFO  BasicTest:50 - Added To Cart Page: Clicking on shopping cart icon
+2017-02-09 18:15:03 INFO  BasicTest:54 - Shopping Cart Page: Retrieving Subtotal
+2017-02-09 18:15:03 INFO  BasicTest:56 - subtotalString: $18.60
+2017-02-09 18:15:03 INFO  BasicTest:57 - Converting subtotal string to double
+2017-02-09 18:15:03 INFO  BasicTest:61 - Actual Subtotal: 0.0
+2017-02-09 18:15:03 INFO  BasicTest:62 - Expected Expected: 19.17
+2017-02-09 18:15:06 INFO  BasicTest:32 - Homepage: Searching for item chocolate covered strawberries boxes
+2017-02-09 18:15:06 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 18:15:08 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 18:15:40 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 18:16:13 INFO  BasicTest:43 - Item Page: Selecting quantity 1
+2017-02-09 18:16:14 INFO  BasicTest:46 - Adding to cart
+2017-02-09 18:16:15 INFO  BasicTest:50 - Added To Cart Page: Clicking on shopping cart icon
+2017-02-09 18:16:16 INFO  BasicTest:54 - Shopping Cart Page: Retrieving Subtotal
+2017-02-09 18:16:16 INFO  BasicTest:56 - subtotalString: $29.95
+2017-02-09 18:16:16 INFO  BasicTest:57 - Converting subtotal string to double
+2017-02-09 18:16:16 INFO  BasicTest:61 - Actual Subtotal: 0.0
+2017-02-09 18:16:16 INFO  BasicTest:62 - Expected Expected: 29.95
+2017-02-09 18:16:19 INFO  BasicTest:32 - Homepage: Searching for item i love you pillowcase
+2017-02-09 18:16:19 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 18:16:21 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 18:16:54 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 18:17:27 INFO  BasicTest:43 - Item Page: Selecting quantity 2
+2017-02-09 18:17:27 INFO  BasicTest:46 - Adding to cart
+2017-02-09 18:17:29 INFO  BasicTest:50 - Added To Cart Page: Clicking on shopping cart icon
+2017-02-09 18:17:30 INFO  BasicTest:54 - Shopping Cart Page: Retrieving Subtotal
+2017-02-09 18:17:30 INFO  BasicTest:56 - subtotalString: $21.00
+2017-02-09 18:17:30 INFO  BasicTest:57 - Converting subtotal string to double
+2017-02-09 18:17:30 INFO  BasicTest:61 - Actual Subtotal: 0.0
+2017-02-09 18:17:30 INFO  BasicTest:62 - Expected Expected: 21
+2017-02-09 18:19:40 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 18:19:40 INFO  BasicTest:19 - Getting data from db and passing it
+2017-02-09 18:20:25 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 18:20:25 INFO  BasicTest:19 - Getting data from db and passing it
+2017-02-09 18:20:29 INFO  BasicTest:32 - Homepage: Searching for item giant teddy bear valentines day heart
+2017-02-09 18:20:29 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 18:20:31 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 18:20:33 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 18:23:30 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 18:23:30 INFO  BasicTest:19 - Getting data from db and passing it
+2017-02-09 18:23:36 INFO  BasicTest:32 - Homepage: Searching for item giant teddy bear valentines day heart
+2017-02-09 18:23:36 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 18:23:36 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 18:23:39 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 18:23:40 INFO  BasicTest:43 - Item Page: Selecting quantity 5
+2017-02-09 18:24:43 INFO  BasicTest:46 - Adding to cart
+2017-02-09 18:24:43 INFO  BasicTest:50 - Added To Cart Page: Clicking on shopping cart icon
+2017-02-09 18:24:46 INFO  BasicTest:54 - Shopping Cart Page: Retrieving Subtotal
+2017-02-09 18:24:46 INFO  BasicTest:56 - subtotalString: $899.95
+2017-02-09 18:24:46 INFO  BasicTest:57 - Converting subtotal string to double
+2017-02-09 18:24:46 INFO  BasicTest:61 - Actual Subtotal: 0.0
+2017-02-09 18:24:46 INFO  BasicTest:62 - Expected Expected: 899.95
+2017-02-09 18:24:50 INFO  BasicTest:32 - Homepage: Searching for item diamond earrings 
+2017-02-09 18:24:50 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 18:24:51 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 18:25:42 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 18:25:43 INFO  BasicTest:19 - Getting data from db and passing it
+2017-02-09 18:25:46 INFO  BasicTest:32 - Homepage: Searching for item giant teddy bear valentines day heart
+2017-02-09 18:25:46 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 18:26:54 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 18:26:56 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 18:27:29 INFO  BasicTest:43 - Item Page: Selecting quantity 5
+2017-02-09 18:27:29 INFO  BasicTest:46 - Adding to cart
+2017-02-09 18:27:30 INFO  BasicTest:50 - Added To Cart Page: Clicking on shopping cart icon
+2017-02-09 18:27:31 INFO  BasicTest:54 - Shopping Cart Page: Retrieving Subtotal
+2017-02-09 18:27:31 INFO  BasicTest:56 - subtotalString: $899.95
+2017-02-09 18:27:31 INFO  BasicTest:57 - Converting subtotal string to double
+2017-02-09 18:27:31 INFO  BasicTest:61 - Actual Subtotal: 0.0
+2017-02-09 18:27:31 INFO  BasicTest:62 - Expected Expected: 899.95
+2017-02-09 18:27:34 INFO  BasicTest:32 - Homepage: Searching for item diamond earrings 
+2017-02-09 18:27:34 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 18:27:36 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 18:27:38 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 18:28:43 INFO  BasicTest:43 - Item Page: Selecting quantity 25
+2017-02-09 18:28:43 INFO  BasicTest:46 - Adding to cart
+2017-02-09 18:28:44 INFO  BasicTest:50 - Added To Cart Page: Clicking on shopping cart icon
+2017-02-09 18:28:45 INFO  BasicTest:54 - Shopping Cart Page: Retrieving Subtotal
+2017-02-09 18:28:46 INFO  BasicTest:56 - subtotalString: $4,749.75
+2017-02-09 18:28:46 INFO  BasicTest:57 - Converting subtotal string to double
+2017-02-09 18:28:46 INFO  BasicTest:61 - Actual Subtotal: 0.0
+2017-02-09 18:28:46 INFO  BasicTest:62 - Expected Expected: 3499.75
+2017-02-09 18:28:49 INFO  BasicTest:32 - Homepage: Searching for item heart shaped ice tray
+2017-02-09 18:28:49 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 18:28:51 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 18:29:24 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 18:29:58 INFO  BasicTest:43 - Item Page: Selecting quantity 3
+2017-02-09 18:29:58 INFO  BasicTest:46 - Adding to cart
+2017-02-09 18:29:59 INFO  BasicTest:50 - Added To Cart Page: Clicking on shopping cart icon
+2017-02-09 18:30:00 INFO  BasicTest:54 - Shopping Cart Page: Retrieving Subtotal
+2017-02-09 18:30:00 INFO  BasicTest:56 - subtotalString: $18.60
+2017-02-09 18:30:00 INFO  BasicTest:57 - Converting subtotal string to double
+2017-02-09 18:30:00 INFO  BasicTest:61 - Actual Subtotal: 0.0
+2017-02-09 18:30:00 INFO  BasicTest:62 - Expected Expected: 19.17
+2017-02-09 18:30:04 INFO  BasicTest:32 - Homepage: Searching for item chocolate covered strawberries boxes
+2017-02-09 18:30:04 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 18:30:06 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 18:30:09 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 18:30:12 INFO  BasicTest:43 - Item Page: Selecting quantity 1
+2017-02-09 18:30:12 INFO  BasicTest:46 - Adding to cart
+2017-02-09 18:30:13 INFO  BasicTest:50 - Added To Cart Page: Clicking on shopping cart icon
+2017-02-09 18:30:14 INFO  BasicTest:54 - Shopping Cart Page: Retrieving Subtotal
+2017-02-09 18:30:14 INFO  BasicTest:56 - subtotalString: $29.95
+2017-02-09 18:30:14 INFO  BasicTest:57 - Converting subtotal string to double
+2017-02-09 18:30:14 INFO  BasicTest:61 - Actual Subtotal: 0.0
+2017-02-09 18:30:14 INFO  BasicTest:62 - Expected Expected: 29.95
+2017-02-09 18:30:17 INFO  BasicTest:32 - Homepage: Searching for item i love you pillowcase
+2017-02-09 18:30:17 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 18:30:19 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 18:30:52 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 18:30:54 INFO  BasicTest:43 - Item Page: Selecting quantity 2
+2017-02-09 18:30:54 INFO  BasicTest:46 - Adding to cart
+2017-02-09 18:30:55 INFO  BasicTest:50 - Added To Cart Page: Clicking on shopping cart icon
+2017-02-09 18:30:56 INFO  BasicTest:54 - Shopping Cart Page: Retrieving Subtotal
+2017-02-09 18:30:56 INFO  BasicTest:56 - subtotalString: $21.00
+2017-02-09 18:30:56 INFO  BasicTest:57 - Converting subtotal string to double
+2017-02-09 18:30:56 INFO  BasicTest:61 - Actual Subtotal: 0.0
+2017-02-09 18:30:56 INFO  BasicTest:62 - Expected Expected: 21
+2017-02-09 18:31:28 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 18:31:28 INFO  BasicTest:19 - Getting data from db and passing it
+2017-02-09 18:31:32 INFO  BasicTest:32 - Homepage: Searching for item giant teddy bear valentines day heart
+2017-02-09 18:31:32 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 18:31:34 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 18:31:36 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 18:32:09 INFO  BasicTest:43 - Item Page: Selecting quantity 5
+2017-02-09 18:32:09 INFO  BasicTest:46 - Adding to cart
+2017-02-09 18:32:10 INFO  BasicTest:50 - Added To Cart Page: Clicking on shopping cart icon
+2017-02-09 18:32:11 INFO  BasicTest:54 - Shopping Cart Page: Retrieving Subtotal
+2017-02-09 18:32:11 INFO  BasicTest:56 - subtotalString: $899.95
+2017-02-09 18:32:11 INFO  BasicTest:57 - Converting subtotal string to double
+2017-02-09 18:32:11 INFO  BasicTest:61 - Actual Subtotal: 0.0
+2017-02-09 18:32:11 INFO  BasicTest:62 - Expected Expected: 899.95
+2017-02-09 18:32:14 INFO  BasicTest:32 - Homepage: Searching for item diamond earrings 
+2017-02-09 18:32:14 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 18:32:16 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 18:32:49 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 18:33:22 INFO  BasicTest:43 - Item Page: Selecting quantity 25
+2017-02-09 18:33:22 INFO  BasicTest:46 - Adding to cart
+2017-02-09 18:33:23 INFO  BasicTest:50 - Added To Cart Page: Clicking on shopping cart icon
+2017-02-09 18:33:24 INFO  BasicTest:54 - Shopping Cart Page: Retrieving Subtotal
+2017-02-09 18:33:24 INFO  BasicTest:56 - subtotalString: $749.75
+2017-02-09 18:33:24 INFO  BasicTest:57 - Converting subtotal string to double
+2017-02-09 18:33:24 INFO  BasicTest:61 - Actual Subtotal: 0.0
+2017-02-09 18:33:24 INFO  BasicTest:62 - Expected Expected: 3499.75
+2017-02-09 18:33:27 INFO  BasicTest:32 - Homepage: Searching for item heart shaped ice tray
+2017-02-09 18:33:27 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 18:33:29 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 18:34:02 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 18:34:35 INFO  BasicTest:43 - Item Page: Selecting quantity 3
+2017-02-09 18:34:35 INFO  BasicTest:46 - Adding to cart
+2017-02-09 18:34:36 INFO  BasicTest:50 - Added To Cart Page: Clicking on shopping cart icon
+2017-02-09 18:34:37 INFO  BasicTest:54 - Shopping Cart Page: Retrieving Subtotal
+2017-02-09 18:34:37 INFO  BasicTest:56 - subtotalString: $18.60
+2017-02-09 18:34:37 INFO  BasicTest:57 - Converting subtotal string to double
+2017-02-09 18:34:37 INFO  BasicTest:61 - Actual Subtotal: 0.0
+2017-02-09 18:34:37 INFO  BasicTest:62 - Expected Expected: 19.17
+2017-02-09 18:34:40 INFO  BasicTest:32 - Homepage: Searching for item chocolate covered strawberries boxes
+2017-02-09 18:34:40 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 18:34:42 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 18:34:43 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 18:51:50 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 18:51:50 INFO  BasicTest:19 - Getting data from db and passing it
+2017-02-09 18:51:54 INFO  BasicTest:32 - Homepage: Searching for item giant teddy bear valentines day heart
+2017-02-09 18:51:54 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 18:51:56 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 18:53:36 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 18:53:36 INFO  BasicTest:19 - Getting data from db and passing it
+2017-02-09 18:53:40 INFO  BasicTest:32 - Homepage: Searching for item giant teddy bear valentines day heart
+2017-02-09 18:53:40 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 18:53:42 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 18:53:44 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 18:53:47 INFO  BasicTest:32 - Homepage: Searching for item diamond earrings 
+2017-02-09 18:53:47 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 18:53:49 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 18:54:23 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 18:54:26 INFO  BasicTest:32 - Homepage: Searching for item heart shaped ice tray
+2017-02-09 18:54:26 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 18:54:28 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 18:55:25 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 18:55:25 INFO  BasicTest:19 - Getting data from db and passing it
+2017-02-09 18:55:29 INFO  BasicTest:32 - Homepage: Searching for item giant teddy bear valentines day heart
+2017-02-09 18:55:29 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 18:55:31 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 18:55:32 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 18:56:54 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 18:56:54 INFO  BasicTest:19 - Getting data from db and passing it
+2017-02-09 18:56:58 INFO  BasicTest:32 - Homepage: Searching for item giant teddy bear valentines day heart
+2017-02-09 18:56:58 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 18:57:00 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 18:57:02 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 18:57:05 INFO  BasicTest:32 - Homepage: Searching for item diamond earrings 
+2017-02-09 18:57:05 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 18:57:07 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 18:57:08 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 18:57:12 INFO  BasicTest:32 - Homepage: Searching for item heart shaped ice tray
+2017-02-09 18:57:12 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 19:00:07 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 19:00:07 INFO  BasicTest:19 - Getting data from db and passing it
+2017-02-09 19:00:11 INFO  BasicTest:32 - Homepage: Searching for item giant teddy bear valentines day heart
+2017-02-09 19:00:11 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 19:00:18 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 19:00:20 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 19:00:23 INFO  BasicTest:32 - Homepage: Searching for item diamond earrings 
+2017-02-09 19:00:23 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 19:00:26 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 19:00:30 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 19:00:33 INFO  BasicTest:32 - Homepage: Searching for item heart shaped ice tray
+2017-02-09 19:00:33 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 19:00:35 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 19:01:07 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 19:01:10 INFO  BasicTest:32 - Homepage: Searching for item chocolate covered strawberries boxes
+2017-02-09 19:01:10 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 19:01:13 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 19:01:45 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 19:01:48 INFO  BasicTest:32 - Homepage: Searching for item i love you pillowcase
+2017-02-09 19:01:48 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 19:01:50 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 19:02:23 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 19:04:56 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 19:04:56 INFO  BasicTest:19 - Getting data from db and passing it
+2017-02-09 19:04:59 INFO  BasicTest:32 - Homepage: Searching for item giant teddy bear valentines day heart
+2017-02-09 19:04:59 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 19:05:07 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 19:05:09 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 19:05:12 INFO  BasicTest:32 - Homepage: Searching for item diamond earrings 
+2017-02-09 19:05:12 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 19:05:14 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 19:05:46 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 19:05:46 INFO  BasicTest:19 - Getting data from db and passing it
+2017-02-09 19:05:50 INFO  BasicTest:32 - Homepage: Searching for item giant teddy bear valentines day heart
+2017-02-09 19:05:50 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 19:07:16 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 19:08:33 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 19:08:33 INFO  BasicTest:19 - Getting data from db and passing it
+2017-02-09 19:08:37 INFO  BasicTest:32 - Homepage: Searching for item giant teddy bear valentines day heart
+2017-02-09 19:08:37 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 19:08:38 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 19:08:40 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 19:08:43 INFO  BasicTest:32 - Homepage: Searching for item diamond earrings 
+2017-02-09 19:08:43 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 19:21:39 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 19:21:39 INFO  BasicTest:19 - Getting data from db and passing it
+2017-02-09 19:21:43 INFO  BasicTest:32 - Homepage: Searching for item giant teddy bear valentines day heart
+2017-02-09 19:21:43 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 19:23:39 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 19:23:39 INFO  BasicTest:19 - Getting data from db and passing it
+2017-02-09 19:23:43 INFO  BasicTest:32 - Homepage: Searching for item giant teddy bear valentines day heart
+2017-02-09 19:23:43 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 19:23:50 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 19:23:53 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 19:23:56 INFO  BasicTest:32 - Homepage: Searching for item diamond earrings 
+2017-02-09 19:23:56 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 19:30:37 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 19:30:37 INFO  BasicTest:19 - Getting data from db and passing it
+2017-02-09 19:31:13 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 19:31:13 INFO  BasicTest:19 - Getting data from db and passing it
+2017-02-09 19:31:17 INFO  BasicTest:32 - Homepage: Searching for item giant teddy bear valentines day heart
+2017-02-09 19:31:17 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 19:31:19 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 19:31:20 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 19:34:33 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 19:34:33 INFO  BasicTest:19 - Getting data from db and passing it
+2017-02-09 19:34:36 INFO  BasicTest:32 - Homepage: Searching for item giant teddy bear valentines day heart
+2017-02-09 19:34:36 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 19:34:38 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 19:34:40 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 19:34:40 INFO  BasicPage:23 - Selecting first search result
+2017-02-09 19:34:43 INFO  BasicTest:32 - Homepage: Searching for item diamond earrings 
+2017-02-09 19:34:43 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 19:34:45 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 19:36:24 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 19:36:24 INFO  BasicTest:19 - Getting data from db and passing it
+2017-02-09 19:37:10 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 19:37:10 INFO  BasicTest:19 - Getting data from db and passing it
+2017-02-09 19:39:06 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 19:39:06 INFO  BasicTest:19 - Getting data from db and passing it
+2017-02-09 19:39:31 INFO  BasicTest:32 - Homepage: Searching for item giant teddy bear valentines day heart
+2017-02-09 19:39:40 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 19:39:41 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 19:39:43 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 19:40:03 INFO  BasicPage:23 - Selecting first search result
+2017-02-09 20:06:25 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 20:06:25 INFO  BasicTest:19 - Getting data from db and passing it
+2017-02-09 20:06:29 INFO  BasicTest:32 - Homepage: Searching for item giant teddy bear valentines day heart
+2017-02-09 20:06:29 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 20:06:31 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 20:06:33 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 20:06:33 INFO  BasicPage:22 - Selecting first search result
+2017-02-09 20:06:36 INFO  BasicTest:32 - Homepage: Searching for item diamond earrings 
+2017-02-09 20:06:36 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 20:06:39 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 20:08:34 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 20:08:35 INFO  BasicTest:19 - Getting data from db and passing it
+2017-02-09 20:08:38 INFO  BasicTest:32 - Homepage: Searching for item giant teddy bear valentines day heart
+2017-02-09 20:08:38 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 20:08:40 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 20:08:42 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 20:08:42 INFO  BasicPage:22 - Selecting first search result
+2017-02-09 20:08:45 INFO  BasicTest:32 - Homepage: Searching for item diamond earrings 
+2017-02-09 20:08:45 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 20:08:47 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 20:08:49 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 20:08:49 INFO  BasicPage:22 - Selecting first search result
+2017-02-09 20:09:37 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 20:09:37 INFO  BasicTest:19 - Getting data from db and passing it
+2017-02-09 20:09:40 INFO  BasicTest:32 - Homepage: Searching for item giant teddy bear valentines day heart
+2017-02-09 20:09:40 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 20:09:42 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 20:09:44 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 20:09:44 INFO  BasicPage:22 - Selecting first search result
+2017-02-09 20:09:47 INFO  BasicTest:32 - Homepage: Searching for item diamond earrings 
+2017-02-09 20:09:47 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 20:09:49 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 20:09:51 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 20:09:51 INFO  BasicPage:22 - Selecting first search result
+2017-02-09 20:09:54 INFO  BasicTest:32 - Homepage: Searching for item heart shaped ice tray
+2017-02-09 20:09:54 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 20:10:49 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 20:10:49 INFO  BasicTest:19 - Getting data from db and passing it
+2017-02-09 20:10:53 INFO  BasicTest:32 - Homepage: Searching for item giant teddy bear valentines day heart
+2017-02-09 20:10:53 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 20:13:59 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 20:13:59 INFO  BasicTest:19 - Getting data from db and passing it
+2017-02-09 20:14:02 INFO  BasicTest:32 - Homepage: Searching for item giant teddy bear valentines day heart
+2017-02-09 20:14:02 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 20:14:04 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 20:14:06 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 20:14:06 INFO  BasicPage:22 - Selecting first search result
+2017-02-09 20:14:09 INFO  BasicTest:32 - Homepage: Searching for item diamond earrings 
+2017-02-09 20:14:09 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 20:17:28 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 20:17:28 INFO  BasicTest:19 - Getting data from db and passing it
+2017-02-09 20:17:32 INFO  BasicTest:32 - Homepage: Searching for item giant teddy bear valentines day heart
+2017-02-09 20:17:32 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 20:17:34 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 20:17:36 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 20:17:36 INFO  BasicPage:22 - Selecting first search result
+2017-02-09 20:17:38 INFO  BasicTest:32 - Homepage: Searching for item diamond earrings 
+2017-02-09 20:17:38 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 20:17:41 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 20:18:14 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 20:18:14 INFO  BasicPage:22 - Selecting first search result
+2017-02-09 20:18:17 INFO  BasicTest:32 - Homepage: Searching for item heart shaped ice tray
+2017-02-09 20:18:17 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 20:18:19 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 20:18:52 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 20:18:52 INFO  BasicPage:22 - Selecting first search result
+2017-02-09 20:18:55 INFO  BasicTest:32 - Homepage: Searching for item chocolate covered strawberries boxes
+2017-02-09 20:18:55 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 20:36:58 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 20:37:20 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 20:38:53 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 20:38:59 INFO  DataHelper:39 - 1.0  	Shoes  	4.0  	45.0
+2017-02-09 20:38:59 INFO  DataHelper:39 - 2.0  	Food  	6.0  	76.0
+2017-02-09 20:38:59 INFO  DataHelper:39 - 3.0  	Pet Toy  	2.0  	107.0
+2017-02-09 20:38:59 INFO  DataHelper:39 - 4.0  	Pen  	3.0  	138.0
+2017-02-09 20:38:59 INFO  DataHelper:39 - 5.0  	Candy  	1.0  	169.0
+2017-02-09 20:40:48 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 20:40:53 INFO  DataHelper:39 - 1.0  	Shoes  	4.0  	45.0
+2017-02-09 20:40:53 INFO  DataHelper:39 - 2.0  	Food  	6.0  	76.0
+2017-02-09 20:40:53 INFO  DataHelper:39 - 3.0  	Pet Toy  	2.0  	107.0
+2017-02-09 20:40:53 INFO  DataHelper:39 - 4.0  	Pen  	3.0  	138.0
+2017-02-09 20:40:53 INFO  DataHelper:39 - 5.0  	Candy  	1.0  	169.0
+2017-02-09 20:43:32 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 20:43:39 INFO  DataHelper:39 - 1.0  	Shoes  	4.0  	45.0
+2017-02-09 20:43:39 INFO  DataHelper:39 - 2.0  	Food  	6.0  	76.0
+2017-02-09 20:43:39 INFO  DataHelper:39 - 3.0  	Pet Toy  	2.0  	107.0
+2017-02-09 20:43:39 INFO  DataHelper:39 - 4.0  	Pen  	3.0  	138.0
+2017-02-09 20:43:39 INFO  DataHelper:39 - 5.0  	Candy  	1.0  	169.0
+2017-02-09 20:47:45 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 20:48:18 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 20:49:29 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 20:49:29 INFO  BasicTest:19 - Getting data from db and passing it
+2017-02-09 20:49:33 INFO  BasicTest:32 - Homepage: Searching for item giant teddy bear valentines day heart
+2017-02-09 20:49:33 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 20:49:35 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 20:49:38 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 20:49:38 INFO  BasicPage:22 - Selecting first search result
+2017-02-09 20:49:41 INFO  BasicTest:32 - Homepage: Searching for item diamond earrings 
+2017-02-09 20:49:41 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 20:49:44 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 20:51:16 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 20:51:21 INFO  DataHelper:39 - 1.0  	Shoes  	4.0  	45.0
+2017-02-09 20:51:21 INFO  DataHelper:39 - 2.0  	Food  	6.0  	76.0
+2017-02-09 20:51:21 INFO  DataHelper:39 - 3.0  	Pet Toy  	2.0  	107.0
+2017-02-09 20:51:21 INFO  DataHelper:39 - 4.0  	Pen  	3.0  	138.0
+2017-02-09 20:51:21 INFO  DataHelper:39 - 5.0  	Candy  	1.0  	169.0
+2017-02-09 20:53:54 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 21:15:12 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 21:15:12 INFO  BasicTest:19 - Getting data from db and passing it
+2017-02-09 21:15:17 INFO  BasicTest:32 - Homepage: Searching for item giant teddy bear valentines day heart
+2017-02-09 21:15:17 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 21:19:00 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 21:19:00 INFO  BasicTest:19 - Getting data from db and passing it
+2017-02-09 21:19:03 INFO  BasicTest:32 - Homepage: Searching for item giant teddy bear valentines day heart
+2017-02-09 21:19:03 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 21:19:03 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 21:19:05 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 21:19:05 INFO  BasicPage:23 - Selecting first search result
+2017-02-09 21:19:09 INFO  BasicTest:32 - Homepage: Searching for item diamond earrings 
+2017-02-09 21:19:09 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 21:19:11 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 21:19:13 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 21:19:13 INFO  BasicPage:23 - Selecting first search result
+2017-02-09 21:19:16 INFO  BasicTest:32 - Homepage: Searching for item heart shaped ice tray
+2017-02-09 21:19:16 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 21:19:18 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 21:19:51 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 21:19:51 INFO  BasicPage:23 - Selecting first search result
+2017-02-09 21:19:54 INFO  BasicTest:32 - Homepage: Searching for item chocolate covered strawberries boxes
+2017-02-09 21:19:54 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 21:19:56 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 21:20:29 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 21:20:29 INFO  BasicPage:23 - Selecting first search result
+2017-02-09 21:20:32 INFO  BasicTest:32 - Homepage: Searching for item i love you pillowcase
+2017-02-09 21:20:32 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 21:20:34 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 21:21:07 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 21:21:07 INFO  BasicPage:23 - Selecting first search result
+2017-02-09 21:21:31 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 21:21:31 INFO  BasicTest:19 - Getting data from db and passing it
+2017-02-09 21:21:35 INFO  BasicTest:32 - Homepage: Searching for item giant teddy bear valentines day heart
+2017-02-09 21:21:35 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 21:21:37 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 21:21:39 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 21:21:39 INFO  BasicPage:22 - Selecting first search result
+2017-02-09 21:21:43 INFO  BasicTest:32 - Homepage: Searching for item diamond earrings 
+2017-02-09 21:21:43 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 21:21:45 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 21:22:18 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 21:22:18 INFO  BasicPage:22 - Selecting first search result
+2017-02-09 21:22:21 INFO  BasicTest:32 - Homepage: Searching for item heart shaped ice tray
+2017-02-09 21:22:21 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 21:23:28 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 21:24:00 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 21:24:00 INFO  BasicPage:22 - Selecting first search result
+2017-02-09 21:24:03 INFO  BasicTest:32 - Homepage: Searching for item chocolate covered strawberries boxes
+2017-02-09 21:24:03 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 21:24:05 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 21:24:38 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 21:24:38 INFO  BasicPage:22 - Selecting first search result
+2017-02-09 21:24:41 INFO  BasicTest:32 - Homepage: Searching for item i love you pillowcase
+2017-02-09 21:24:41 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 21:24:43 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 21:25:14 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 21:25:14 INFO  BasicTest:19 - Getting data from db and passing it
+2017-02-09 21:25:16 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 21:25:16 INFO  BasicPage:22 - Selecting first search result
+2017-02-09 21:25:18 INFO  BasicTest:32 - Homepage: Searching for item giant teddy bear valentines day heart
+2017-02-09 21:25:18 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 21:25:43 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 21:25:43 INFO  BasicTest:19 - Getting data from db and passing it
+2017-02-09 21:25:47 INFO  BasicTest:32 - Homepage: Searching for item giant teddy bear valentines day heart
+2017-02-09 21:25:47 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 21:25:49 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 21:25:51 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 21:25:51 INFO  BasicPage:22 - Selecting first search result
+2017-02-09 21:25:54 INFO  BasicTest:32 - Homepage: Searching for item diamond earrings 
+2017-02-09 21:25:54 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 21:27:16 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 21:27:16 INFO  BasicTest:19 - Getting data from db and passing it
+2017-02-09 21:27:25 INFO  BasicTest:32 - Homepage: Searching for item giant teddy bear valentines day heart
+2017-02-09 21:27:25 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 21:27:27 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 21:27:29 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 21:27:44 INFO  BasicPage:22 - Selecting first search result
+2017-02-09 21:28:42 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 21:28:42 INFO  BasicTest:19 - Getting data from db and passing it
+2017-02-09 21:28:48 INFO  BasicTest:32 - Homepage: Searching for item giant teddy bear valentines day heart
+2017-02-09 21:28:48 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-09 21:28:51 INFO  BasicTest:35 - Submitting on search button
+2017-02-09 21:28:52 INFO  BasicTest:39 - Search Results Page: Clicking on first result
+2017-02-09 21:33:45 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-09 21:33:45 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-09 21:33:49 INFO  BasicTest:33 - Homepage: Searching for item giant teddy bear valentines day heart
+2017-02-09 21:33:49 INFO  BasicTest:34 - Sending keys to search bar
+2017-02-09 21:33:51 INFO  BasicTest:36 - Submitting on search button
+2017-02-09 21:33:53 INFO  BasicTest:40 - Search Results Page: Clicking on first result
+2017-02-09 21:34:27 INFO  BasicTest:47 - Item Page: Selecting quantity 5
+2017-02-09 21:34:27 INFO  BasicTest:51 - Adding to cart
+2017-02-09 21:34:28 INFO  BasicTest:55 - Added To Cart Page: Clicking on shopping cart icon
+2017-02-09 21:34:31 INFO  BasicTest:33 - Homepage: Searching for item diamond earrings 
+2017-02-09 21:34:31 INFO  BasicTest:34 - Sending keys to search bar
+2017-02-09 21:34:33 INFO  BasicTest:36 - Submitting on search button
+2017-02-10 20:42:16 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-10 20:42:16 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-10 20:42:21 INFO  BasicTest:33 - Homepage: Searching for item giant teddy bear valentines day heart
+2017-02-10 20:42:21 INFO  BasicTest:34 - Sending keys to search bar
+2017-02-10 20:42:27 INFO  BasicTest:36 - Submitting on search button
+2017-02-10 20:42:29 INFO  BasicTest:41 - Search Results Page: Clicking on first result
+2017-02-10 20:42:33 INFO  BasicTest:48 - Item Page: Selecting quantity 5
+2017-02-10 20:42:33 INFO  BasicTest:52 - Adding to cart
+2017-02-10 20:42:34 INFO  BasicTest:56 - Added To Cart Page: Clicking on shopping cart icon
+2017-02-10 20:42:37 INFO  BasicTest:33 - Homepage: Searching for item diamond earrings 
+2017-02-10 20:42:37 INFO  BasicTest:34 - Sending keys to search bar
+2017-02-10 20:50:05 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-10 20:50:05 INFO  BasicTest:19 - Getting data from db and passing it
+2017-02-10 20:50:09 INFO  BasicTest:32 - Homepage: Searching for item giant teddy bear valentines day heart
+2017-02-10 20:50:09 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-10 20:50:11 INFO  BasicTest:35 - Submitting on search button
+2017-02-10 20:50:12 INFO  BasicTest:40 - Search Results Page: Clicking on first result
+2017-02-10 20:50:12 INFO  BasicPage:20 - Selecting first search result
+2017-02-10 20:50:15 INFO  BasicTest:32 - Homepage: Searching for item diamond earrings 
+2017-02-10 20:50:15 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-10 20:50:17 INFO  BasicTest:35 - Submitting on search button
+2017-02-10 20:50:19 INFO  BasicTest:40 - Search Results Page: Clicking on first result
+2017-02-10 20:50:19 INFO  BasicPage:20 - Selecting first search result
+2017-02-10 20:50:22 INFO  BasicTest:32 - Homepage: Searching for item heart shaped ice tray
+2017-02-10 20:50:22 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-10 20:50:29 INFO  BasicTest:35 - Submitting on search button
+2017-02-10 20:50:31 INFO  BasicTest:40 - Search Results Page: Clicking on first result
+2017-02-10 20:50:31 INFO  BasicPage:20 - Selecting first search result
+2017-02-10 20:50:34 INFO  BasicTest:32 - Homepage: Searching for item chocolate covered strawberries boxes
+2017-02-10 20:50:34 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-10 20:52:39 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-10 20:52:39 INFO  BasicTest:19 - Getting data from db and passing it
+2017-02-10 20:52:44 INFO  BasicTest:32 - Homepage: Searching for item giant teddy bear valentines day heart
+2017-02-10 20:52:44 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-10 20:52:44 INFO  BasicTest:35 - Submitting on search button
+2017-02-10 20:52:46 INFO  BasicTest:40 - Search Results Page: Clicking on first result
+2017-02-10 20:52:46 INFO  BasicPage:20 - Selecting first search result
+2017-02-10 20:52:49 INFO  BasicTest:32 - Homepage: Searching for item diamond earrings 
+2017-02-10 20:52:49 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-10 20:55:21 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-10 20:55:21 INFO  BasicTest:19 - Getting data from db and passing it
+2017-02-10 20:55:57 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-10 20:55:57 INFO  BasicTest:19 - Getting data from db and passing it
+2017-02-10 20:56:01 INFO  BasicTest:32 - Homepage: Searching for item giant teddy bear valentines day heart
+2017-02-10 20:56:01 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-10 20:56:02 INFO  BasicTest:35 - Submitting on search button
+2017-02-10 20:56:04 INFO  BasicTest:41 - Search Results Page: Clicking on first result
+2017-02-10 20:56:04 INFO  BasicPage:20 - Selecting first search result
+2017-02-10 20:56:07 INFO  BasicTest:32 - Homepage: Searching for item diamond earrings 
+2017-02-10 20:56:07 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-10 20:58:14 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-10 20:58:14 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-10 20:58:18 INFO  BasicTest:33 - Homepage: Searching for item giant teddy bear valentines day heart
+2017-02-10 20:58:18 INFO  BasicTest:34 - Sending keys to search bar
+2017-02-10 20:58:21 INFO  BasicTest:36 - Submitting on search button
+2017-02-10 20:58:23 INFO  BasicTest:41 - Search Results Page: Clicking on first result
+2017-02-10 20:58:23 INFO  BasicTest:46 - Item Page: Selecting quantity 5
+2017-02-10 20:58:26 INFO  BasicTest:33 - Homepage: Searching for item diamond earrings 
+2017-02-10 20:58:26 INFO  BasicTest:34 - Sending keys to search bar
+2017-02-10 21:00:48 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-10 21:00:48 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-10 21:00:52 INFO  BasicTest:33 - Homepage: Searching for item giant teddy bear valentines day heart
+2017-02-10 21:00:52 INFO  BasicTest:34 - Sending keys to search bar
+2017-02-10 21:00:53 INFO  BasicTest:36 - Submitting on search button
+2017-02-10 21:00:55 INFO  BasicTest:41 - Search Results Page: Clicking on first result
+2017-02-10 21:01:00 INFO  BasicTest:46 - Item Page: Selecting quantity 5
+2017-02-10 21:01:03 INFO  BasicTest:33 - Homepage: Searching for item diamond earrings 
+2017-02-10 21:01:03 INFO  BasicTest:34 - Sending keys to search bar
+2017-02-10 21:01:05 INFO  BasicTest:36 - Submitting on search button
+2017-02-10 21:01:08 INFO  BasicTest:41 - Search Results Page: Clicking on first result
+2017-02-10 21:01:11 INFO  BasicTest:46 - Item Page: Selecting quantity 25
+2017-02-10 21:01:15 INFO  BasicTest:33 - Homepage: Searching for item heart shaped ice tray
+2017-02-10 21:01:15 INFO  BasicTest:34 - Sending keys to search bar
+2017-02-10 21:01:16 INFO  BasicTest:36 - Submitting on search button
+2017-02-10 21:01:19 INFO  BasicTest:41 - Search Results Page: Clicking on first result
+2017-02-10 21:01:23 INFO  BasicTest:46 - Item Page: Selecting quantity 3
+2017-02-10 21:01:26 INFO  BasicTest:33 - Homepage: Searching for item chocolate covered strawberries boxes
+2017-02-10 21:01:26 INFO  BasicTest:34 - Sending keys to search bar
+2017-02-10 21:01:27 INFO  BasicTest:36 - Submitting on search button
+2017-02-10 21:01:30 INFO  BasicTest:41 - Search Results Page: Clicking on first result
+2017-02-10 21:01:33 INFO  BasicTest:46 - Item Page: Selecting quantity 1
+2017-02-10 21:01:36 INFO  BasicTest:33 - Homepage: Searching for item i love you pillowcase
+2017-02-10 21:01:36 INFO  BasicTest:34 - Sending keys to search bar
+2017-02-10 21:01:37 INFO  BasicTest:36 - Submitting on search button
+2017-02-10 21:01:40 INFO  BasicTest:41 - Search Results Page: Clicking on first result
+2017-02-10 21:01:44 INFO  BasicTest:46 - Item Page: Selecting quantity 2
+2017-02-10 21:03:07 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-10 21:03:07 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-10 21:03:37 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-10 21:03:37 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-10 21:03:41 INFO  BasicTest:33 - Homepage: Searching for item giant teddy bear valentines day heart
+2017-02-10 21:03:41 INFO  BasicTest:34 - Sending keys to search bar
+2017-02-10 21:03:43 INFO  BasicTest:36 - Submitting on search button
+2017-02-10 21:03:45 INFO  BasicTest:41 - Search Results Page: Clicking on first result
+2017-02-10 21:03:48 INFO  BasicTest:46 - Item Page: Selecting quantity 5
+2017-02-10 21:03:48 INFO  BasicTest:50 - Adding to cart
+2017-02-10 21:03:49 INFO  BasicTest:54 - Added To Cart Page: Clicking on shopping cart icon
+2017-02-10 21:03:53 INFO  BasicTest:33 - Homepage: Searching for item diamond earrings 
+2017-02-10 21:03:53 INFO  BasicTest:34 - Sending keys to search bar
+2017-02-10 21:03:54 INFO  BasicTest:36 - Submitting on search button
+2017-02-10 21:05:37 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-10 21:05:37 INFO  BasicTest:19 - Getting data from db and passing it
+2017-02-10 21:05:41 INFO  BasicTest:32 - Homepage: Searching for item giant teddy bear valentines day heart
+2017-02-10 21:05:41 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-10 21:05:42 INFO  BasicTest:35 - Submitting on search button
+2017-02-10 21:05:45 INFO  BasicTest:40 - Search Results Page: Clicking on first result
+2017-02-10 21:05:45 INFO  BasicPage:20 - Selecting first search result
+2017-02-10 21:05:48 INFO  BasicTest:32 - Homepage: Searching for item diamond earrings 
+2017-02-10 21:05:48 INFO  BasicTest:33 - Sending keys to search bar
+2017-02-10 21:07:14 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-10 21:07:14 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-10 21:07:34 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-10 21:07:34 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-10 21:07:37 INFO  BasicTest:33 - Homepage: Searching for item giant teddy bear valentines day heart
+2017-02-10 21:07:37 INFO  BasicTest:34 - Sending keys to search bar
+2017-02-10 21:07:39 INFO  BasicTest:36 - Submitting on search button
+2017-02-10 21:07:41 INFO  BasicTest:41 - Search Results Page: Clicking on first result
+2017-02-10 21:07:44 INFO  BasicTest:50 - Item Page: Selecting quantity 5
+2017-02-10 21:07:44 INFO  BasicTest:54 - Adding to cart
+2017-02-10 21:07:45 INFO  BasicTest:58 - Added To Cart Page: Clicking on shopping cart icon
+2017-02-10 21:09:21 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-10 21:09:21 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-10 21:09:25 INFO  BasicTest:33 - Homepage: Searching for item giant teddy bear valentines day heart
+2017-02-10 21:09:25 INFO  BasicTest:34 - Sending keys to search bar
+2017-02-10 21:09:31 INFO  BasicTest:36 - Submitting on search button
+2017-02-10 21:09:34 INFO  BasicTest:41 - Search Results Page: Clicking on first result
+2017-02-10 21:09:37 INFO  BasicTest:50 - Item Page: Selecting quantity 5
+2017-02-10 21:09:37 INFO  BasicTest:54 - Adding to cart
+2017-02-10 21:09:38 INFO  BasicTest:59 - Added To Cart Page: Clicking on shopping cart icon
+2017-02-10 21:09:39 INFO  BasicTest:63 - Shopping Cart Page: Retrieving Subtotal
+2017-02-10 21:09:42 INFO  BasicTest:33 - Homepage: Searching for item diamond earrings 
+2017-02-10 21:09:42 INFO  BasicTest:34 - Sending keys to search bar
+2017-02-10 21:09:44 INFO  BasicTest:36 - Submitting on search button
+2017-02-10 21:10:31 INFO  BasicTest:27 - Created a BasicTest object through constructor
+2017-02-10 21:10:31 INFO  BasicTest:20 - Getting data from db and passing it
+2017-02-10 21:10:34 INFO  BasicTest:33 - Homepage: Searching for item giant teddy bear valentines day heart
+2017-02-10 21:10:34 INFO  BasicTest:34 - Sending keys to search bar
+2017-02-10 21:10:36 INFO  BasicTest:36 - Submitting on search button
+2017-02-10 21:10:37 INFO  BasicTest:41 - Search Results Page: Clicking on first result
+2017-02-10 21:10:38 INFO  BasicTest:50 - Item Page: Selecting quantity 5
+2017-02-10 21:10:43 INFO  BasicTest:54 - Adding to cart
+2017-02-10 21:10:43 INFO  BasicTest:59 - Added To Cart Page: Clicking on shopping cart icon
+2017-02-10 21:10:44 INFO  BasicTest:64 - Shopping Cart Page: Retrieving Subtotal
+2017-02-10 21:10:44 INFO  BasicTest:66 - subtotalString: $899.95
+2017-02-10 21:10:44 INFO  BasicTest:67 - Converting subtotal string to double
+2017-02-10 21:10:44 INFO  BasicTest:71 - Actual Subtotal: 0.0
+2017-02-10 21:10:44 INFO  BasicTest:72 - Expected Expected: 899.95
+2017-02-10 21:10:47 INFO  BasicTest:33 - Homepage: Searching for item diamond earrings 
+2017-02-10 21:10:47 INFO  BasicTest:34 - Sending keys to search bar
+2017-02-10 21:10:49 INFO  BasicTest:36 - Submitting on search button
+2017-02-10 21:10:52 INFO  BasicTest:41 - Search Results Page: Clicking on first result

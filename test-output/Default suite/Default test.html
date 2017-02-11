@@ -57,9 +57,9 @@ function toggleAllBoxes() {
 <tr>
 <td>Tests passed/Failed/Skipped:</td><td>0/5/0</td>
 </tr><tr>
-<td>Started on:</td><td>Wed Feb 08 20:22:06 PST 2017</td>
+<td>Started on:</td><td>Fri Feb 10 21:00:48 PST 2017</td>
 </tr>
-<tr><td>Total time:</td><td>18 seconds (18430 ms)</td>
+<tr><td>Total time:</td><td>55 seconds (55789 ms)</td>
 </tr><tr>
 <td>Included groups:</td><td></td>
 </tr><tr>
@@ -75,8 +75,14 @@ function toggleAllBoxes() {
 <td><b>Instance</b></td>
 </tr>
 <tr>
-<td title='com.sqa.gy.AmazonCartTest1.testAddingItemsToCart()'><b>testAddingItemsToCart</b><br>Test class: com.sqa.gy.AmazonCartTest1<br>Parameters: 1, giant teddy bear valentines day heart, 5, 59.75</td>
-<td><div><pre>java.lang.IllegalArgumentException: argument type mismatch
+<td title='com.sqa.gy.AmazonCartTest1.testAddingItemsToCart()'><b>testAddingItemsToCart</b><br>Test class: com.sqa.gy.AmazonCartTest1<br>Parameters: 1, giant teddy bear valentines day heart, 5, 899.95</td>
+<td><div><pre>java.lang.NullPointerException
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy8.getTagName(Unknown Source)
+	at org.openqa.selenium.support.ui.Select.&lt;init&gt;(Select.java:44)
+	at com.sqa.gy.amazonPages.AmazonItemPage.selectQuantityToBuy(AmazonItemPage.java:29)
+	at com.sqa.gy.AmazonCartTest1.testAddingItemsToCart(AmazonCartTest1.java:48)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -101,8 +107,14 @@ function toggleAllBoxes() {
 	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
 	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
 	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
-</pre></div><a href='#' onClick='toggleBox("stack-trace1359545169", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace1359545169'><pre>java.lang.IllegalArgumentException: argument type mismatch
+</pre></div><a href='#' onClick='toggleBox("stack-trace132627359", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace132627359'><pre>java.lang.NullPointerException
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy8.getTagName(Unknown Source)
+	at org.openqa.selenium.support.ui.Select.&lt;init&gt;(Select.java:44)
+	at com.sqa.gy.amazonPages.AmazonItemPage.selectQuantityToBuy(AmazonItemPage.java:29)
+	at com.sqa.gy.AmazonCartTest1.testAddingItemsToCart(AmazonCartTest1.java:48)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -128,11 +140,17 @@ function toggleAllBoxes() {
 	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
 	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
 </pre></div></td>
-<td>0</td>
-<td>com.sqa.gy.AmazonCartTest1@1282b104</td></tr>
+<td>8</td>
+<td>com.sqa.gy.AmazonCartTest1@1e8de47d</td></tr>
 <tr>
 <td title='com.sqa.gy.AmazonCartTest1.testAddingItemsToCart()'><b>testAddingItemsToCart</b><br>Test class: com.sqa.gy.AmazonCartTest1<br>Parameters: 2, diamond earrings , 25, 3499.75</td>
-<td><div><pre>java.lang.IllegalArgumentException: argument type mismatch
+<td><div><pre>java.lang.NullPointerException
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy8.getTagName(Unknown Source)
+	at org.openqa.selenium.support.ui.Select.&lt;init&gt;(Select.java:44)
+	at com.sqa.gy.amazonPages.AmazonItemPage.selectQuantityToBuy(AmazonItemPage.java:29)
+	at com.sqa.gy.AmazonCartTest1.testAddingItemsToCart(AmazonCartTest1.java:48)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -157,8 +175,14 @@ function toggleAllBoxes() {
 	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
 	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
 	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
-</pre></div><a href='#' onClick='toggleBox("stack-trace303366393", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace303366393'><pre>java.lang.IllegalArgumentException: argument type mismatch
+</pre></div><a href='#' onClick='toggleBox("stack-trace1249617721", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1249617721'><pre>java.lang.NullPointerException
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy8.getTagName(Unknown Source)
+	at org.openqa.selenium.support.ui.Select.&lt;init&gt;(Select.java:44)
+	at com.sqa.gy.amazonPages.AmazonItemPage.selectQuantityToBuy(AmazonItemPage.java:29)
+	at com.sqa.gy.AmazonCartTest1.testAddingItemsToCart(AmazonCartTest1.java:48)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -184,11 +208,17 @@ function toggleAllBoxes() {
 	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
 	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
 </pre></div></td>
-<td>0</td>
-<td>com.sqa.gy.AmazonCartTest1@1282b104</td></tr>
+<td>8</td>
+<td>com.sqa.gy.AmazonCartTest1@1e8de47d</td></tr>
 <tr>
-<td title='com.sqa.gy.AmazonCartTest1.testAddingItemsToCart()'><b>testAddingItemsToCart</b><br>Test class: com.sqa.gy.AmazonCartTest1<br>Parameters: 3, heart shaped ice tray, 3, 18.03</td>
-<td><div><pre>java.lang.IllegalArgumentException: argument type mismatch
+<td title='com.sqa.gy.AmazonCartTest1.testAddingItemsToCart()'><b>testAddingItemsToCart</b><br>Test class: com.sqa.gy.AmazonCartTest1<br>Parameters: 3, heart shaped ice tray, 3, 19.17</td>
+<td><div><pre>java.lang.NullPointerException
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy8.getTagName(Unknown Source)
+	at org.openqa.selenium.support.ui.Select.&lt;init&gt;(Select.java:44)
+	at com.sqa.gy.amazonPages.AmazonItemPage.selectQuantityToBuy(AmazonItemPage.java:29)
+	at com.sqa.gy.AmazonCartTest1.testAddingItemsToCart(AmazonCartTest1.java:48)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -213,8 +243,14 @@ function toggleAllBoxes() {
 	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
 	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
 	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
-</pre></div><a href='#' onClick='toggleBox("stack-trace2112089107", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace2112089107'><pre>java.lang.IllegalArgumentException: argument type mismatch
+</pre></div><a href='#' onClick='toggleBox("stack-trace899797599", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace899797599'><pre>java.lang.NullPointerException
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy8.getTagName(Unknown Source)
+	at org.openqa.selenium.support.ui.Select.&lt;init&gt;(Select.java:44)
+	at com.sqa.gy.amazonPages.AmazonItemPage.selectQuantityToBuy(AmazonItemPage.java:29)
+	at com.sqa.gy.AmazonCartTest1.testAddingItemsToCart(AmazonCartTest1.java:48)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -240,11 +276,17 @@ function toggleAllBoxes() {
 	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
 	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
 </pre></div></td>
-<td>0</td>
-<td>com.sqa.gy.AmazonCartTest1@1282b104</td></tr>
+<td>7</td>
+<td>com.sqa.gy.AmazonCartTest1@1e8de47d</td></tr>
 <tr>
 <td title='com.sqa.gy.AmazonCartTest1.testAddingItemsToCart()'><b>testAddingItemsToCart</b><br>Test class: com.sqa.gy.AmazonCartTest1<br>Parameters: 4, chocolate covered strawberries boxes, 1, 29.95</td>
-<td><div><pre>java.lang.IllegalArgumentException: argument type mismatch
+<td><div><pre>java.lang.NullPointerException
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy8.getTagName(Unknown Source)
+	at org.openqa.selenium.support.ui.Select.&lt;init&gt;(Select.java:44)
+	at com.sqa.gy.amazonPages.AmazonItemPage.selectQuantityToBuy(AmazonItemPage.java:29)
+	at com.sqa.gy.AmazonCartTest1.testAddingItemsToCart(AmazonCartTest1.java:48)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -269,8 +311,14 @@ function toggleAllBoxes() {
 	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
 	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
 	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
-</pre></div><a href='#' onClick='toggleBox("stack-trace192838628", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace192838628'><pre>java.lang.IllegalArgumentException: argument type mismatch
+</pre></div><a href='#' onClick='toggleBox("stack-trace1924036112", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1924036112'><pre>java.lang.NullPointerException
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy8.getTagName(Unknown Source)
+	at org.openqa.selenium.support.ui.Select.&lt;init&gt;(Select.java:44)
+	at com.sqa.gy.amazonPages.AmazonItemPage.selectQuantityToBuy(AmazonItemPage.java:29)
+	at com.sqa.gy.AmazonCartTest1.testAddingItemsToCart(AmazonCartTest1.java:48)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -296,11 +344,17 @@ function toggleAllBoxes() {
 	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
 	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
 </pre></div></td>
-<td>0</td>
-<td>com.sqa.gy.AmazonCartTest1@1282b104</td></tr>
+<td>6</td>
+<td>com.sqa.gy.AmazonCartTest1@1e8de47d</td></tr>
 <tr>
 <td title='com.sqa.gy.AmazonCartTest1.testAddingItemsToCart()'><b>testAddingItemsToCart</b><br>Test class: com.sqa.gy.AmazonCartTest1<br>Parameters: 5, i love you pillowcase, 2, 21</td>
-<td><div><pre>java.lang.IllegalArgumentException: argument type mismatch
+<td><div><pre>java.lang.NullPointerException
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy8.getTagName(Unknown Source)
+	at org.openqa.selenium.support.ui.Select.&lt;init&gt;(Select.java:44)
+	at com.sqa.gy.amazonPages.AmazonItemPage.selectQuantityToBuy(AmazonItemPage.java:29)
+	at com.sqa.gy.AmazonCartTest1.testAddingItemsToCart(AmazonCartTest1.java:48)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -325,8 +379,14 @@ function toggleAllBoxes() {
 	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
 	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
 	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
-</pre></div><a href='#' onClick='toggleBox("stack-trace1432470783", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace1432470783'><pre>java.lang.IllegalArgumentException: argument type mismatch
+</pre></div><a href='#' onClick='toggleBox("stack-trace1672949079", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1672949079'><pre>java.lang.NullPointerException
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy8.getTagName(Unknown Source)
+	at org.openqa.selenium.support.ui.Select.&lt;init&gt;(Select.java:44)
+	at com.sqa.gy.amazonPages.AmazonItemPage.selectQuantityToBuy(AmazonItemPage.java:29)
+	at com.sqa.gy.AmazonCartTest1.testAddingItemsToCart(AmazonCartTest1.java:48)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -352,8 +412,8 @@ function toggleAllBoxes() {
 	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
 	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
 </pre></div></td>
-<td>0</td>
-<td>com.sqa.gy.AmazonCartTest1@1282b104</td></tr>
+<td>7</td>
+<td>com.sqa.gy.AmazonCartTest1@1e8de47d</td></tr>
 </table><p>
 </body>
 </html>

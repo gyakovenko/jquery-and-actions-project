@@ -3,10 +3,10 @@ package com.sqa.gy;
 import java.sql.*;
 
 import org.openqa.selenium.*;
-import org.openqa.selenium.support.ui.*;
 import org.testng.*;
 import org.testng.annotations.*;
 
+import com.sqa.gy.amazonPages.*;
 import com.sqa.gy.helpers.*;
 
 public class AmazonCartTest1 extends BasicTest {
@@ -29,37 +29,47 @@ public class AmazonCartTest1 extends BasicTest {
 		// thats why the url goes up there not here
 
 		// HomePage
-		// AmazonHomePage homePage = new AmazonHomePage(getDriver());
-		WebElement searchbar = getDriver().findElement(By.id("twotabsearchtextbox"));
+		AmazonHomePage homePage = new AmazonHomePage(getDriver());
+		getLogger().info("Homepage: Searching for item " + item);
 		getLogger().info("Sending keys to search bar");
-		// homePage.enterSearchTest(item);
-		searchbar.sendKeys(item);
-		getLogger().info("submitting on search button");
-		WebElement searchButtonInput = getDriver().findElement(By.className("nav-input"));
-		getLogger().info("submitting on search button");
-		searchButtonInput.submit();
+		homePage.enterSearchText(item);
+		getLogger().info("Submitting on search button");
+		homePage.submitSearchQuery();
+
+		// NOW THIS WORKS SO LETS WORK FROM HERE.
 		// SearchResults Page
-		WebElement firstResult = getDriver().findElement(By.cssSelector("#result_0  a.a-link-normal.a-text-normal"));
-		firstResult.click();
+		getLogger().info("Search Results Page: Clicking on first result");
+		WebElement firstItem = super.getDriver().findElement(By.cssSelector("#result_0 a.a-link-normal.a-text-normal"));
+		firstItem.click();
+
+		// Page Elements Not Working
+		// AmazonResultsPage resultsPage = new AmazonResultsPage(getDriver());
+		// resultsPage.clickOnFirstResult();
+
 		// Product Page
-		Select quantityDropDown = new Select(getDriver().findElement(By.id("quantity")));
-		quantityDropDown.selectByVisibleText(quantity);
-		WebElement addToCartButton = getDriver().findElement(By.id("add-to-cart-button"));
-		addToCartButton.click();
-		// Splash Added to cart page
-		WebElement goToCart = getDriver().findElement(By.id("nav-cart"));
-		goToCart.click();
+		getLogger().info("Item Page: Selecting quantity " + quantity);
+		AmazonItemPage itemPage = new AmazonItemPage(getDriver());
+		itemPage.selectQuantityToBuy(quantity);
+
+		getLogger().info("Adding to cart");
+		itemPage.clickAddToCart();
+
+		// Added To Cart Page
+		AmazonAddedToCartPage addedToCartPage = new AmazonAddedToCartPage(getDriver());
+		getLogger().info("Added To Cart Page: Clicking on shopping cart icon");
+		addedToCartPage.clickOnShoppingCartIcon();
+
 		// Shopping Cart Page
-		String subtotalString = getDriver()
-				.findElement(By.xpath("//div[contains(@class, 'sc-subtotal a-spacing-mini')]//span/span[2]/text()"))
-				.getText();
-		subtotalString = subtotalString.replaceAll("$,", "");
-		double subtotalDouble = 0;
-		try {
-			subtotalDouble = Double.parseDouble(subtotalString);
-		} catch (Exception e) {
-			System.out.println("Could not convert subtotal string into a double");
-		}
+		AmazonShoppingCartPage shoppingCartPage = new AmazonShoppingCartPage(getDriver());
+		getLogger().info("Shopping Cart Page: Retrieving Subtotal");
+		String subtotalString = shoppingCartPage.retrieveSubtotalString();
+		getLogger().info("subtotalString: " + subtotalString);
+		getLogger().info("Converting subtotal string to double");
+		double subtotalDouble = AppBasics.convertMoneyStringIntoDouble(subtotalString);
+
+		// Asserting Equals
+		getLogger().info("Actual Subtotal: " + subtotalDouble);
+		getLogger().info("Expected Expected: " + priceTotalExpected);
 		Assert.assertEquals(subtotalDouble, Double.parseDouble(priceTotalExpected));
 	}
 

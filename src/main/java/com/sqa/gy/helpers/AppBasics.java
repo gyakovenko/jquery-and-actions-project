@@ -28,6 +28,22 @@ public class AppBasics {
 		return total;
 	}
 
+	public static double convertMoneyStringIntoDouble(String moneyString) {
+		double moneyDouble = 0;
+		if (moneyString.substring(0, 0).equalsIgnoreCase("$")) {
+			moneyString = moneyString.substring(1);
+		}
+		if (moneyString.contains(",")) {
+			moneyString = moneyString.replaceAll(",", "");
+		}
+		try {
+			moneyDouble = Double.parseDouble(moneyString);
+		} catch (Exception e) {
+			System.out.println("Could not convert subtotal string into a double");
+		}
+		return moneyDouble;
+	}
+
 	public static int convertStringtoInt(String input, int min, int max) {
 		int result = 0;
 		boolean isNotValid = true;
